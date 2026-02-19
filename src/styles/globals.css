@@ -1,0 +1,126 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-paper: #e8dcc4;
+    --color-ink: #1a1a1a;
+  }
+
+  body {
+    @apply text-ink font-body overflow-x-hidden;
+  }
+
+  /* Typography Defaults */
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-display text-ink uppercase tracking-wider;
+  }
+}
+
+/* Body background - outside @layer for proper url() processing */
+body {
+  background-color: #e8dcc4;
+  background-image: url("/images/aged-paper.png");
+  background-blend-mode: multiply;
+}
+
+@layer components {
+
+  /* The "Textileschmiede" Frame Container */
+  .vintage-frame-container {
+    @apply relative w-full min-h-screen border-[12px] border-ink;
+    box-shadow: inset 0 0 50px rgba(0, 0, 0, 0.5);
+  }
+
+  /* Generic Vintage Card */
+  .vintage-card {
+    @apply relative p-6 shadow-2xl;
+    background-color: theme('colors.paper.light');
+    /* Clean cut corners via clip-path can be added here or via pseudo-elements */
+  }
+
+  /* Photo Corners Pattern */
+  .photo-corner-tl {
+    @apply absolute top-0 left-0 w-8 h-8 border-t-4 border-l-4 border-gold-dipped;
+  }
+
+  .photo-corner-tr {
+    @apply absolute top-0 right-0 w-8 h-8 border-t-4 border-r-4 border-gold-dipped;
+  }
+
+  .photo-corner-bl {
+    @apply absolute bottom-0 left-0 w-8 h-8 border-b-4 border-l-4 border-gold-dipped;
+  }
+
+  .photo-corner-br {
+    @apply absolute bottom-0 right-0 w-8 h-8 border-b-4 border-r-4 border-gold-dipped;
+  }
+
+  /* Grunge Borders */
+  .border-rough {
+    @apply border-4 border-ink;
+    border-radius: 2px;
+    box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
+  }
+}
+
+@layer utilities {
+  .sepia-high {
+    filter: grayscale(100%) sepia(80%) contrast(110%);
+  }
+
+  .text-shadow-sm {
+    text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.1);
+  }
+
+  .text-shadow-vintage {
+    text-shadow: 2px 2px 0px rgba(201, 169, 97, 0.4);
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .line-clamp-4 {
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    background: theme('colors.ink.light');
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: theme('colors.gold.dipped');
+    border-radius: 2px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: theme('colors.gold.DEFAULT');
+  }
+}
