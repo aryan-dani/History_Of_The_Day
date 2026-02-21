@@ -31,3 +31,4 @@ misc/
 
 # Environment variables
 .env
+.vercel

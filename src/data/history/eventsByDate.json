@@ -3,6 +3,405 @@
     "month": "January",
     "data": [
       {
+        "day": 1,
+        "year": 1948,
+        "title": "Establishment of the DRDO",
+        "category": "Science & Innovation",
+        "short_summary": "India's premier defense R&D organization was formed.",
+        "full_story": "The Defence Research and Development Organisation was formed by merging the Technical Development Establishment and the Directorate of Technical Development and Production to enhance self-reliance in defense systems.",
+        "ai_insight": "Self-reliance in defense technology is the silent guardian of national peace.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "DRDO Bhawan, New Delhi",
+        "tags": [
+          "DRDO",
+          "Defense",
+          "Science"
+        ]
+      },
+      {
+        "day": 2,
+        "year": 1954,
+        "title": "Institution of Bharat Ratna & Padma Awards",
+        "category": "National Honors",
+        "short_summary": "India's highest civilian awards were established.",
+        "full_story": "The President of India instituted the Bharat Ratna and Padma awards to recognize exceptional service and performance of the highest order in any field of human endeavor.",
+        "ai_insight": "A nation is defined by the heroes it chooses to honor.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Rashtrapati Bhavan, Delhi",
+        "tags": [
+          "Awards",
+          "Bharat Ratna",
+          "Excellence"
+        ]
+      },
+      {
+        "day": 3,
+        "year": 1831,
+        "title": "Birth of Savitribai Phule",
+        "category": "Social Reform",
+        "short_summary": "Birth of the first female teacher of India.",
+        "full_story": "Savitribai Phule was a trailblazer for women's rights and education. Along with her husband, she opened the first school for girls in Pune amidst great social opposition.",
+        "ai_insight": "Education is the greatest tool for social revolution.",
+        "coordinates": {
+          "lat": 18.5204,
+          "lng": 73.8567
+        },
+        "location_name": "Pune, Maharashtra",
+        "tags": [
+          "Education",
+          "Women Rights",
+          "Reform"
+        ]
+      },
+      {
+        "day": 4,
+        "year": 1966,
+        "title": "The Tashkent Declaration Begins",
+        "category": "Modern India",
+        "short_summary": "Peace talks between India and Pakistan following the 1965 war.",
+        "full_story": "Prime Minister Lal Bahadur Shastri and President Ayub Khan met in Tashkent, USSR, to sign a peace agreement aimed at restoring normal and peaceful relations between the two countries.",
+        "ai_insight": "The strength of a leader is measured by their pursuit of peace after the storms of war.",
+        "coordinates": {
+          "lat": 41.2995,
+          "lng": 69.2401
+        },
+        "location_name": "Tashkent, Uzbekistan",
+        "tags": [
+          "Diplomacy",
+          "Peace",
+          "Shastri"
+        ]
+      },
+      {
+        "day": 5,
+        "year": 1880,
+        "title": "Birth of Barindra Kumar Ghosh",
+        "category": "Revolutionary Movement",
+        "short_summary": "Birth of the revolutionary leader and brother of Sri Aurobindo.",
+        "full_story": "A founding member of Anushilan Samiti, Barindra Kumar Ghosh was instrumental in organizing revolutionary activities in Bengal and was a key figure in the Alipore Bomb Case.",
+        "ai_insight": "The fire of revolution often starts in secret rooms and underground circles.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Revolutionary",
+          "Bengal",
+          "History"
+        ]
+      },
+      {
+        "day": 6,
+        "year": 1947,
+        "title": "All India Congress Committee Acceptance",
+        "category": "Independence Movement",
+        "short_summary": "AICC accepts the partition of India.",
+        "full_story": "The AICC met in Delhi and officially passed a resolution accepting the partition of India and the British plan for the transfer of power, setting the stage for 15th August.",
+        "ai_insight": "Decisions that change geography are often the most painful to pen.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Swaraj Bhawan, Delhi",
+        "tags": [
+          "Partition",
+          "Congress",
+          "Politics"
+        ]
+      },
+      {
+        "day": 7,
+        "year": 1966,
+        "title": "Birth of Bimal Roy (Legacy Day)",
+        "category": "Arts & Culture",
+        "short_summary": "Remembering the master of social realism in Indian cinema.",
+        "full_story": "Bimal Roy passed away on this day. He was the director behind classics like 'Do Bigha Zamin' and 'Madhumati', focusing on the struggles of the common man.",
+        "ai_insight": "Cinema is most powerful when it holds a mirror to society's unspoken truths.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Cinema",
+          "Art",
+          "Social Realism"
+        ]
+      },
+      {
+        "day": 8,
+        "year": 1929,
+        "title": "Saeed Jaffrey's Birth",
+        "category": "Arts & Culture",
+        "short_summary": "Birth of the legendary actor who bridged Indian and Western cinema.",
+        "full_story": "Born in Punjab, Jaffrey became an icon in both Bollywood and Hollywood, known for his roles in 'Shatranj Ke Khilari' and 'Gandhi'.",
+        "ai_insight": "Art is a bridge that makes different cultures feel familiar to one another.",
+        "coordinates": {
+          "lat": 30.34,
+          "lng": 76.379
+        },
+        "location_name": "Malerkotla, Punjab",
+        "tags": [
+          "Actor",
+          "Global India",
+          "Culture"
+        ]
+      },
+      {
+        "day": 9,
+        "year": 1915,
+        "title": "Pravasi Bharatiya Divas",
+        "category": "Modern India",
+        "short_summary": "Mahatma Gandhi returns to India from South Africa.",
+        "full_story": "Gandhi arrived in Mumbai on this day in 1915. This day is now celebrated annually to recognize the contribution of the overseas Indian community to India's development.",
+        "ai_insight": "Returning home with a vision is the first step toward national transformation.",
+        "coordinates": {
+          "lat": 18.9219,
+          "lng": 72.8345
+        },
+        "location_name": "Gateway of India, Mumbai",
+        "tags": [
+          "Gandhi",
+          "Diaspora",
+          "Homecoming"
+        ]
+      },
+      {
+        "day": 10,
+        "year": 1966,
+        "title": "Signing of the Tashkent Declaration",
+        "category": "Modern India",
+        "short_summary": "Official conclusion of the Indo-Pakistani War of 1965.",
+        "full_story": "The declaration stated that forces should be withdrawn to positions held before the conflict, and diplomatic relations should be restored.",
+        "ai_insight": "The ink of a treaty is the blood of the future saved.",
+        "coordinates": {
+          "lat": 41.2995,
+          "lng": 69.2401
+        },
+        "location_name": "Tashkent, Uzbekistan",
+        "tags": [
+          "Peace",
+          "History",
+          "Border"
+        ]
+      },
+      {
+        "day": 11,
+        "year": 1966,
+        "title": "Death of Lal Bahadur Shastri",
+        "category": "Modern India",
+        "short_summary": "The mysterious passing of India's second Prime Minister.",
+        "full_story": "Shastri passed away in Tashkent hours after signing the peace treaty. He is immortalized by his slogan 'Jai Jawan Jai Kisan'.",
+        "ai_insight": "Greatness lies in simplicity and unwavering devotion to the motherland.",
+        "coordinates": {
+          "lat": 41.2995,
+          "lng": 69.2401
+        },
+        "location_name": "Tashkent, Uzbekistan",
+        "tags": [
+          "Shastri",
+          "Leader",
+          "Mystery"
+        ]
+      },
+      {
+        "day": 12,
+        "year": 1863,
+        "title": "National Youth Day",
+        "category": "Philosophy",
+        "short_summary": "Birth of Swami Vivekananda.",
+        "full_story": "Born Narendranath Datta, Vivekananda was a philosopher and monk who introduced Indian philosophies of Vedanta and Yoga to the Western world.",
+        "ai_insight": "The youth are not the leaders of tomorrow, but the change-makers of today.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Vivekananda",
+          "Youth",
+          "Spirituality"
+        ]
+      },
+      {
+        "day": 13,
+        "year": 1949,
+        "title": "Birth of Rakesh Sharma",
+        "category": "Science & Innovation",
+        "short_summary": "Birth of the first Indian citizen to travel into space.",
+        "full_story": "Rakesh Sharma was born in Patiala. He would later go on to fly aboard Soyuz T-11 as part of the Interkosmos program.",
+        "ai_insight": "Even a boy from a small town can look at the Earth from the stars.",
+        "coordinates": {
+          "lat": 30.3398,
+          "lng": 76.3869
+        },
+        "location_name": "Patiala, Punjab",
+        "tags": [
+          "Space",
+          "Astronaut",
+          "ISRO"
+        ]
+      },
+      {
+        "day": 14,
+        "year": 1761,
+        "title": "Third Battle of Panipat",
+        "category": "Medieval India",
+        "short_summary": "Major conflict between the Maratha Empire and Ahmad Shah Durrani.",
+        "full_story": "One of the largest battles in the 18th century, it resulted in a Maratha defeat and significantly changed the political landscape of North India.",
+        "ai_insight": "Valour in the face of impossible odds is never forgotten, regardless of the outcome.",
+        "coordinates": {
+          "lat": 29.3909,
+          "lng": 76.9635
+        },
+        "location_name": "Panipat, Haryana",
+        "tags": [
+          "Maratha",
+          "Battle",
+          "History"
+        ]
+      },
+      {
+        "day": 15,
+        "year": 1949,
+        "title": "Indian Army Day",
+        "category": "Military History",
+        "short_summary": "Field Marshal K.M. Cariappa takes command.",
+        "full_story": "Cariappa became the first Indian Commander-in-Chief of the Indian Army, taking over from General Sir Francis Butcher.",
+        "ai_insight": "True leadership is the transition from guardianship to self-governance.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Cariappa Parade Ground, Delhi",
+        "tags": [
+          "Army",
+          "Cariappa",
+          "Defense"
+        ]
+      },
+      {
+        "day": 16,
+        "year": 2016,
+        "title": "National Startup Day",
+        "category": "National Economy",
+        "short_summary": "Launch of the 'Startup India' initiative.",
+        "full_story": "The Government of India launched this initiative to build a strong ecosystem for nurturing innovation and startups in the country.",
+        "ai_insight": "Economic freedom is driven by the courage of entrepreneurs.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Vigyan Bhawan, Delhi",
+        "tags": [
+          "Startup",
+          "Economy",
+          "Innovation"
+        ]
+      },
+      {
+        "day": 17,
+        "year": 1917,
+        "title": "Birth of M.G. Ramachandran",
+        "category": "Politics & Arts",
+        "short_summary": "Birth of the actor-politician and former CM of Tamil Nadu.",
+        "full_story": "Known as MGR, he was a cultural icon and served three terms as the Chief Minister of Tamil Nadu, pioneer of the mid-day meal scheme.",
+        "ai_insight": "When charisma meets compassion, a leader becomes a legend.",
+        "coordinates": {
+          "lat": 7.2906,
+          "lng": 80.6337
+        },
+        "location_name": "Kandy (Born abroad, active in TN)",
+        "tags": [
+          "MGR",
+          "Tamil Nadu",
+          "Cinema"
+        ]
+      },
+      {
+        "day": 18,
+        "year": 2003,
+        "title": "Passing of Harivansh Rai Bachchan",
+        "category": "Arts & Culture",
+        "short_summary": "Remembering the legendary poet and author of 'Madhushala'.",
+        "full_story": "A prominent poet of the Chhayavad movement, his works continue to inspire generations with their depth and lyrical beauty.",
+        "ai_insight": "Poetry is the heartbeat of a culture captured in ink.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Poetry",
+          "Literature",
+          "Bachchan"
+        ]
+      },
+      {
+        "day": 19,
+        "year": 1966,
+        "title": "Indira Gandhi Elected Prime Minister",
+        "category": "Modern India",
+        "short_summary": "India's first and only female Prime Minister took office.",
+        "full_story": "Following the death of Lal Bahadur Shastri, Indira Gandhi defeated Morarji Desai to become the leader of the Congress and the nation.",
+        "ai_insight": "Power is not given, it is taken with the resolve to lead.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Parliament House, Delhi",
+        "tags": [
+          "Indira Gandhi",
+          "Politics",
+          "First Female PM"
+        ]
+      },
+      {
+        "day": 20,
+        "year": 1988,
+        "title": "Khan Abdul Ghaffar Khan Passes Away",
+        "category": "Independence Movement",
+        "short_summary": "The 'Frontier Gandhi' breathed his last.",
+        "full_story": "A Pashtun leader and lifelong pacifist, he founded the Khudai Khidmatgar and was a staunch opponent of the partition.",
+        "ai_insight": "A border can divide land, but it cannot divide a spirit of non-violence.",
+        "coordinates": {
+          "lat": 34.0151,
+          "lng": 71.5249
+        },
+        "location_name": "Peshawar (Memorialized in India)",
+        "tags": [
+          "Frontier Gandhi",
+          "Non-violence",
+          "Freedom"
+        ]
+      },
+      {
+        "day": 21,
+        "year": 1972,
+        "title": "Statehood of Manipur, Meghalaya & Tripura",
+        "category": "Modern India",
+        "short_summary": "The North-Eastern Areas (Reorganisation) Act took effect.",
+        "full_story": "These three states were granted full statehood, recognizing the unique cultural identity of the Northeast.",
+        "ai_insight": "A nation's beauty lies in the distinct voices of its diverse regions.",
+        "coordinates": {
+          "lat": 24.817,
+          "lng": 93.9368
+        },
+        "location_name": "Imphal, Manipur",
+        "tags": [
+          "Northeast",
+          "Statehood",
+          "Identity"
+        ]
+      },
+      {
         "day": 22,
         "year": 1949,
         "title": "First Indian Commander-in-Chief",
@@ -15,7 +414,29 @@
           "lng": 77.2036
         },
         "location_name": "New Delhi",
-        "tags": ["Army", "Defense"]
+        "tags": [
+          "Army",
+          "Defense"
+        ]
+      },
+      {
+        "day": 22,
+        "year": 1901,
+        "title": "Death of Queen Victoria (Legacy in India)",
+        "category": "British Raj",
+        "short_summary": "The Empress of India passed away.",
+        "full_story": "Her death marked the end of the Victorian era, which saw the direct rule of the British Crown over India after 1858.",
+        "ai_insight": "The end of an era is the beginning of the struggle for the next.",
+        "coordinates": {
+          "lat": 22.5851,
+          "lng": 88.3416
+        },
+        "location_name": "Victoria Memorial, Kolkata",
+        "tags": [
+          "British Raj",
+          "Empire",
+          "History"
+        ]
       },
       {
         "day": 23,
@@ -30,7 +451,181 @@
           "lng": 78.0211
         },
         "location_name": "Agra Fort, Uttar Pradesh",
-        "tags": ["Mughal", "History"]
+        "tags": [
+          "Mughal",
+          "History"
+        ]
+      },
+      {
+        "day": 23,
+        "year": 1897,
+        "title": "Birth of Netaji Subhas Chandra Bose",
+        "category": "Independence Movement",
+        "short_summary": "Birth of the leader of the Indian National Army.",
+        "full_story": "Born in Cuttack, Netaji was one of the most prominent figures in the freedom struggle, famous for the call 'Give me blood and I will give you freedom'.",
+        "ai_insight": "Freedom is not a gift, it is a conquest.",
+        "coordinates": {
+          "lat": 20.4625,
+          "lng": 85.883
+        },
+        "location_name": "Cuttack, Odisha",
+        "tags": [
+          "Netaji",
+          "INA",
+          "Parakram Diwas"
+        ]
+      },
+      {
+        "day": 24,
+        "year": 1950,
+        "title": "Adoption of the National Anthem",
+        "category": "Modern India",
+        "short_summary": "Jana Gana Mana was officially adopted as the National Anthem.",
+        "full_story": "Written by Rabindranath Tagore, it was first sung in 1911 and became the official anthem of the Republic of India on this day.",
+        "ai_insight": "A song that unites a billion people is the soul of the nation.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Constituent Assembly, Delhi",
+        "tags": [
+          "Anthem",
+          "Tagore",
+          "Unity"
+        ]
+      },
+      {
+        "day": 25,
+        "year": 1971,
+        "title": "Statehood of Himachal Pradesh",
+        "category": "Modern India",
+        "short_summary": "Himachal Pradesh became the 18th state of India.",
+        "full_story": "Formerly a Union Territory, it was granted statehood, recognizing its strategic and cultural importance in the Himalayas.",
+        "ai_insight": "High altitudes breed high aspirations.",
+        "coordinates": {
+          "lat": 31.1048,
+          "lng": 77.1734
+        },
+        "location_name": "Shimla, Himachal Pradesh",
+        "tags": [
+          "Himachal",
+          "Statehood",
+          "Mountains"
+        ]
+      },
+      {
+        "day": 26,
+        "year": 1950,
+        "title": "India Becomes a Republic",
+        "category": "Modern India",
+        "short_summary": "The Constitution of India came into effect.",
+        "full_story": "India ceased to be a British dominion and became a sovereign democratic republic. Dr. Rajendra Prasad was sworn in as the first President.",
+        "ai_insight": "The law of the land belongs to the people of the land.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Kartavya Path, Delhi",
+        "tags": [
+          "Republic Day",
+          "Constitution",
+          "Democracy"
+        ]
+      },
+      {
+        "day": 27,
+        "year": 1963,
+        "title": "Mera Naam Joker Debut (Legacy)",
+        "category": "Arts & Culture",
+        "short_summary": "Celebrating the cinematic genius of Raj Kapoor.",
+        "full_story": "Raj Kapoor, the 'Showman of Indian Cinema', created works that were loved across the Soviet Union and Asia, merging drama with social commentary.",
+        "ai_insight": "Laughter through tears is the highest form of art.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "RK Studios, Mumbai",
+        "tags": [
+          "Raj Kapoor",
+          "Cinema",
+          "Bollywood"
+        ]
+      },
+      {
+        "day": 28,
+        "year": 1865,
+        "title": "Birth of Lala Lajpat Rai",
+        "category": "Independence Movement",
+        "short_summary": "Birth of the 'Lion of Punjab'.",
+        "full_story": "A prominent leader of the Lal-Bal-Pal trio, he was a fierce nationalist and was instrumental in the boycott of the Simon Commission.",
+        "ai_insight": "A lion's roar can shake the foundations of an empire.",
+        "coordinates": {
+          "lat": 30.7046,
+          "lng": 76.7179
+        },
+        "location_name": "Dhudike, Punjab",
+        "tags": [
+          "Lala Lajpat Rai",
+          "Punjab",
+          "Revolution"
+        ]
+      },
+      {
+        "day": 29,
+        "year": 1780,
+        "title": "First Newspaper in India",
+        "category": "Media & Literature",
+        "short_summary": "Hicky's Bengal Gazette began publication.",
+        "full_story": "James Augustus Hicky started the first weekly newspaper in Kolkata, laying the foundation for the fourth pillar of democracy in India.",
+        "ai_insight": "Information is the currency of freedom.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Media",
+          "History",
+          "Journalism"
+        ]
+      },
+      {
+        "day": 30,
+        "year": 1948,
+        "title": "Martyrdom of Mahatma Gandhi",
+        "category": "Modern India",
+        "short_summary": "The assassination of the Father of the Nation.",
+        "full_story": "Gandhi was shot dead at Birla House in Delhi while going for a prayer meeting. The world mourned the loss of the apostle of peace.",
+        "ai_insight": "A light has gone out of our lives, but its warmth will remain forever.",
+        "coordinates": {
+          "lat": 28.612,
+          "lng": 77.2144
+        },
+        "location_name": "Gandhi Smriti, Delhi",
+        "tags": [
+          "Gandhi",
+          "Peace",
+          "Martyrs Day"
+        ]
+      },
+      {
+        "day": 31,
+        "year": 1992,
+        "title": "National Commission for Women Established",
+        "category": "Social Reform",
+        "short_summary": "The statutory body for women's rights was formed.",
+        "full_story": "Formed under the NCW Act, it works to protect and promote the interests of women in India, reviewing constitutional and legal safeguards.",
+        "ai_insight": "Justice for women is the true benchmark of a developed society.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "New Delhi",
+        "tags": [
+          "Women Rights",
+          "Law",
+          "Equality"
+        ]
       }
     ]
   },
@@ -50,7 +645,11 @@
           "lng": 72.8347
         },
         "location_name": "Hutatma Chowk, Mumbai",
-        "tags": ["Statehood", "Mumbai", "History"]
+        "tags": [
+          "Statehood",
+          "Mumbai",
+          "History"
+        ]
       },
       {
         "day": 2,
@@ -58,14 +657,18 @@
         "title": "Birth of Satyajit Ray",
         "category": "Art & Culture",
         "short_summary": "Birth of the legendary filmmaker who revolutionized Indian cinema.",
-        "full_story": "Satyajit Ray, an Oscar-winning director, brought global acclaim to Indian films with his 'Apu Trilogy'. He was a polymath\u2014author, composer, and illustrator.",
+        "full_story": "Satyajit Ray, an Oscar-winning director, brought global acclaim to Indian films with his 'Apu Trilogy'. He was a polymath—author, composer, and illustrator.",
         "ai_insight": "True art is universal, finding the human soul in the smallest of local stories.",
         "coordinates": {
           "lat": 22.5726,
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Cinema", "Kolkata", "Art"]
+        "tags": [
+          "Cinema",
+          "Kolkata",
+          "Art"
+        ]
       },
       {
         "day": 3,
@@ -80,7 +683,10 @@
           "lng": 72.8211
         },
         "location_name": "Girgaon, Mumbai",
-        "tags": ["Cinema", "Heritage"]
+        "tags": [
+          "Cinema",
+          "Heritage"
+        ]
       },
       {
         "day": 4,
@@ -95,7 +701,10 @@
           "lng": 76.68
         },
         "location_name": "Srirangapatna, Karnataka",
-        "tags": ["Mysore", "Resistance"]
+        "tags": [
+          "Mysore",
+          "Resistance"
+        ]
       },
       {
         "day": 5,
@@ -110,7 +719,10 @@
           "lng": 73.8931
         },
         "location_name": "Aga Khan Palace, Pune",
-        "tags": ["Gandhi", "Freedom"]
+        "tags": [
+          "Gandhi",
+          "Freedom"
+        ]
       },
       {
         "day": 6,
@@ -125,7 +737,10 @@
           "lng": 81.8333
         },
         "location_name": "Prayagraj, Uttar Pradesh",
-        "tags": ["Nehru", "History"]
+        "tags": [
+          "Nehru",
+          "History"
+        ]
       },
       {
         "day": 7,
@@ -134,13 +749,16 @@
         "category": "Art & Literature",
         "short_summary": "The birth of 'Gurudev', India's first Nobel laureate.",
         "full_story": "The poet, philosopher, and artist who composed the national anthem and founded Shantiniketan.",
-        "ai_insight": "Where the mind is without fear\u2014Tagore's vision remains our guide.",
+        "ai_insight": "Where the mind is without fear—Tagore's vision remains our guide.",
         "coordinates": {
           "lat": 23.678,
           "lng": 87.6766
         },
         "location_name": "Shantiniketan, West Bengal",
-        "tags": ["Tagore", "Literature"]
+        "tags": [
+          "Tagore",
+          "Literature"
+        ]
       },
       {
         "day": 8,
@@ -155,7 +773,10 @@
           "lng": 78.4419
         },
         "location_name": "Madanapalle, Andhra Pradesh",
-        "tags": ["Philosophy", "Spirituality"]
+        "tags": [
+          "Philosophy",
+          "Spirituality"
+        ]
       },
       {
         "day": 9,
@@ -170,7 +791,10 @@
           "lng": 73.7125
         },
         "location_name": "Kumbhalgarh Fort, Rajasthan",
-        "tags": ["Rajput", "Warrior"]
+        "tags": [
+          "Rajput",
+          "Warrior"
+        ]
       },
       {
         "day": 10,
@@ -185,7 +809,10 @@
           "lng": 77.7064
         },
         "location_name": "Meerut, Uttar Pradesh",
-        "tags": ["1857", "Revolt"]
+        "tags": [
+          "1857",
+          "Revolt"
+        ]
       },
       {
         "day": 11,
@@ -200,7 +827,10 @@
           "lng": 71.751
         },
         "location_name": "Pokhran, Rajasthan",
-        "tags": ["Science", "Defence"]
+        "tags": [
+          "Science",
+          "Defence"
+        ]
       },
       {
         "day": 12,
@@ -215,7 +845,10 @@
           "lng": 73.0185
         },
         "location_name": "Mehrangarh Fort, Jodhpur",
-        "tags": ["Rajasthan", "History"]
+        "tags": [
+          "Rajasthan",
+          "History"
+        ]
       },
       {
         "day": 13,
@@ -230,7 +863,10 @@
           "lng": 77.2081
         },
         "location_name": "Sansad Bhavan, Delhi",
-        "tags": ["Democracy", "Politics"]
+        "tags": [
+          "Democracy",
+          "Politics"
+        ]
       },
       {
         "day": 14,
@@ -245,7 +881,10 @@
           "lng": 73.4503
         },
         "location_name": "Purandar Fort, Maharashtra",
-        "tags": ["Maratha", "Warrior"]
+        "tags": [
+          "Maratha",
+          "Warrior"
+        ]
       },
       {
         "day": 15,
@@ -260,7 +899,10 @@
           "lng": 75.8573
         },
         "location_name": "Ludhiana, Punjab",
-        "tags": ["Revolutionary", "History"]
+        "tags": [
+          "Revolutionary",
+          "History"
+        ]
       },
       {
         "day": 16,
@@ -275,7 +917,10 @@
           "lng": 88.6138
         },
         "location_name": "Gangtok, Sikkim",
-        "tags": ["Statehood", "Sikkim"]
+        "tags": [
+          "Statehood",
+          "Sikkim"
+        ]
       },
       {
         "day": 17,
@@ -290,7 +935,10 @@
           "lng": 79.913
         },
         "location_name": "Kannauj, Uttar Pradesh",
-        "tags": ["Mughal", "War"]
+        "tags": [
+          "Mughal",
+          "War"
+        ]
       },
       {
         "day": 18,
@@ -305,7 +953,10 @@
           "lng": 71.745
         },
         "location_name": "Pokhran, Rajasthan",
-        "tags": ["Nuclear", "History"]
+        "tags": [
+          "Nuclear",
+          "History"
+        ]
       },
       {
         "day": 19,
@@ -320,7 +971,10 @@
           "lng": 73.8567
         },
         "location_name": "Pune, Maharashtra",
-        "tags": ["History", "Tragedy"]
+        "tags": [
+          "History",
+          "Tragedy"
+        ]
       },
       {
         "day": 20,
@@ -335,7 +989,10 @@
           "lng": 75.7237
         },
         "location_name": "Kappad Beach, Kerala",
-        "tags": ["Exploration", "Colonial"]
+        "tags": [
+          "Exploration",
+          "Colonial"
+        ]
       },
       {
         "day": 21,
@@ -350,7 +1007,10 @@
           "lng": 79.9439
         },
         "location_name": "Sriperumbudur, Tamil Nadu",
-        "tags": ["Politics", "Tragedy"]
+        "tags": [
+          "Politics",
+          "Tragedy"
+        ]
       },
       {
         "day": 22,
@@ -365,7 +1025,10 @@
           "lng": 87.9
         },
         "location_name": "Radhanagar, West Bengal",
-        "tags": ["Reform", "History"]
+        "tags": [
+          "Reform",
+          "History"
+        ]
       },
       {
         "day": 23,
@@ -380,7 +1043,10 @@
           "lng": 78.4372
         },
         "location_name": "Uttarkashi, Uttarakhand",
-        "tags": ["Women", "Achievement"]
+        "tags": [
+          "Women",
+          "Achievement"
+        ]
       },
       {
         "day": 24,
@@ -395,7 +1061,10 @@
           "lng": 87.1065
         },
         "location_name": "Churulia, West Bengal",
-        "tags": ["Poet", "Revolution"]
+        "tags": [
+          "Poet",
+          "Revolution"
+        ]
       },
       {
         "day": 25,
@@ -410,7 +1079,10 @@
           "lng": 82.9739
         },
         "location_name": "Varanasi, Uttar Pradesh",
-        "tags": ["Music", "Culture"]
+        "tags": [
+          "Music",
+          "Culture"
+        ]
       },
       {
         "day": 26,
@@ -425,7 +1097,10 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": ["Politics", "Modern India"]
+        "tags": [
+          "Politics",
+          "Modern India"
+        ]
       },
       {
         "day": 27,
@@ -440,7 +1115,10 @@
           "lng": 77.211
         },
         "location_name": "Shanti Vana, Delhi",
-        "tags": ["Nehru", "Legacy"]
+        "tags": [
+          "Nehru",
+          "Legacy"
+        ]
       },
       {
         "day": 28,
@@ -455,7 +1133,10 @@
           "lng": 73.7898
         },
         "location_name": "Nashik, Maharashtra",
-        "tags": ["History", "Independence"]
+        "tags": [
+          "History",
+          "Independence"
+        ]
       },
       {
         "day": 29,
@@ -470,7 +1151,10 @@
           "lng": 88.2627
         },
         "location_name": "Darjeeling, West Bengal",
-        "tags": ["Adventure", "Everest"]
+        "tags": [
+          "Adventure",
+          "Everest"
+        ]
       },
       {
         "day": 30,
@@ -485,7 +1169,10 @@
           "lng": 73.8278
         },
         "location_name": "Panaji, Goa",
-        "tags": ["Statehood", "Goa"]
+        "tags": [
+          "Statehood",
+          "Goa"
+        ]
       },
       {
         "day": 31,
@@ -500,7 +1187,10 @@
           "lng": 75.7533
         },
         "location_name": "Maheshwar, Madhya Pradesh",
-        "tags": ["Queen", "History"]
+        "tags": [
+          "Queen",
+          "History"
+        ]
       }
     ]
   },
@@ -513,14 +1203,17 @@
         "title": "Departure of Gandhi for London",
         "category": "Freedom Struggle",
         "short_summary": "Mahatma Gandhi left South Africa for London to advocate for Indian rights.",
-        "full_story": "This trip was pivotal as it solidified Gandhi\u2019s role as a negotiator and a global voice for Satyagraha, bridging his work in South Africa with his eventual return to India.",
+        "full_story": "This trip was pivotal as it solidified Gandhi’s role as a negotiator and a global voice for Satyagraha, bridging his work in South Africa with his eventual return to India.",
         "ai_insight": "A journey of a thousand miles for justice begins with a single step toward the heart of the empire.",
         "coordinates": {
           "lat": 18.9218,
           "lng": 72.8335
         },
         "location_name": "Gateway of India, Mumbai",
-        "tags": ["Gandhi", "International"]
+        "tags": [
+          "Gandhi",
+          "International"
+        ]
       },
       {
         "day": 2,
@@ -535,7 +1228,10 @@
           "lng": 78.4867
         },
         "location_name": "Hyderabad, Telangana",
-        "tags": ["Statehood", "Politics"]
+        "tags": [
+          "Statehood",
+          "Politics"
+        ]
       },
       {
         "day": 3,
@@ -550,7 +1246,10 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": ["Partition", "Independence"]
+        "tags": [
+          "Partition",
+          "Independence"
+        ]
       },
       {
         "day": 4,
@@ -565,7 +1264,10 @@
           "lng": 80.2707
         },
         "location_name": "Chennai, Tamil Nadu",
-        "tags": ["Politics", "Rajaji"]
+        "tags": [
+          "Politics",
+          "Rajaji"
+        ]
       },
       {
         "day": 5,
@@ -580,7 +1282,10 @@
           "lng": 85.1441
         },
         "location_name": "Gandhi Maidan, Patna",
-        "tags": ["JP Movement", "Revolution"]
+        "tags": [
+          "JP Movement",
+          "Revolution"
+        ]
       },
       {
         "day": 6,
@@ -595,7 +1300,10 @@
           "lng": 74.8765
         },
         "location_name": "Golden Temple, Amritsar",
-        "tags": ["Amritsar", "History"]
+        "tags": [
+          "Amritsar",
+          "History"
+        ]
       },
       {
         "day": 7,
@@ -610,7 +1318,10 @@
           "lng": 72.8353
         },
         "location_name": "Chhatrapati Shivaji Terminus (Contextual)",
-        "tags": ["Gandhi", "Inspiration"]
+        "tags": [
+          "Gandhi",
+          "Inspiration"
+        ]
       },
       {
         "day": 8,
@@ -625,7 +1336,10 @@
           "lng": 72.8656
         },
         "location_name": "Sahar Airport, Mumbai",
-        "tags": ["Aviation", "Modern India"]
+        "tags": [
+          "Aviation",
+          "Modern India"
+        ]
       },
       {
         "day": 9,
@@ -640,7 +1354,10 @@
           "lng": 85.3096
         },
         "location_name": "Ranchi, Jharkhand",
-        "tags": ["Tribal Rights", "Hero"]
+        "tags": [
+          "Tribal Rights",
+          "Hero"
+        ]
       },
       {
         "day": 10,
@@ -655,7 +1372,10 @@
           "lng": 77.2036
         },
         "location_name": "Air Force Station, Delhi",
-        "tags": ["IAF", "Defense"]
+        "tags": [
+          "IAF",
+          "Defense"
+        ]
       },
       {
         "day": 11,
@@ -670,7 +1390,10 @@
           "lng": 79.9122
         },
         "location_name": "Shahjahanpur, Uttar Pradesh",
-        "tags": ["Revolutionary", "Poet"]
+        "tags": [
+          "Revolutionary",
+          "Poet"
+        ]
       },
       {
         "day": 12,
@@ -685,7 +1408,10 @@
           "lng": 81.837
         },
         "location_name": "Allahabad High Court, Prayagraj",
-        "tags": ["Judiciary", "Politics"]
+        "tags": [
+          "Judiciary",
+          "Politics"
+        ]
       },
       {
         "day": 13,
@@ -700,7 +1426,10 @@
           "lng": 88.351
         },
         "location_name": "Netaji Bhawan, Kolkata",
-        "tags": ["Netaji", "INA"]
+        "tags": [
+          "Netaji",
+          "INA"
+        ]
       },
       {
         "day": 14,
@@ -715,7 +1444,10 @@
           "lng": 77.2295
         },
         "location_name": "India Gate, Delhi (Contextual)",
-        "tags": ["History", "Partition"]
+        "tags": [
+          "History",
+          "Partition"
+        ]
       },
       {
         "day": 15,
@@ -730,7 +1462,10 @@
           "lng": 77.2153
         },
         "location_name": "President's House, Delhi",
-        "tags": ["RTI", "Rights"]
+        "tags": [
+          "RTI",
+          "Rights"
+        ]
       },
       {
         "day": 16,
@@ -745,7 +1480,10 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["C.R. Das", "Bengal"]
+        "tags": [
+          "C.R. Das",
+          "Bengal"
+        ]
       },
       {
         "day": 17,
@@ -760,7 +1498,10 @@
           "lng": 78.1772
         },
         "location_name": "Phool Bagh, Gwalior",
-        "tags": ["Rani Jhansi", "1857"]
+        "tags": [
+          "Rani Jhansi",
+          "1857"
+        ]
       },
       {
         "day": 18,
@@ -775,7 +1516,10 @@
           "lng": 73.7042
         },
         "location_name": "Haldighati, Rajasthan",
-        "tags": ["Rajput", "History"]
+        "tags": [
+          "Rajput",
+          "History"
+        ]
       },
       {
         "day": 19,
@@ -784,13 +1528,16 @@
         "category": "Modern India",
         "short_summary": "India's first experimental communication satellite was launched.",
         "full_story": "Launched from French Guiana, APPLE (Ariane Passenger Pay-Load Experiment) was a major milestone for ISRO.",
-        "ai_insight": "From bullock carts carrying rocket parts to the stars\u2014the Indian dream is celestial.",
+        "ai_insight": "From bullock carts carrying rocket parts to the stars—the Indian dream is celestial.",
         "coordinates": {
           "lat": 13.72,
           "lng": 80.23
         },
         "location_name": "Sriharikota, Andhra Pradesh",
-        "tags": ["ISRO", "Science"]
+        "tags": [
+          "ISRO",
+          "Science"
+        ]
       },
       {
         "day": 20,
@@ -805,7 +1552,10 @@
           "lng": 78.169
         },
         "location_name": "Gwalior Fort, Madhya Pradesh",
-        "tags": ["1857", "British Raj"]
+        "tags": [
+          "1857",
+          "British Raj"
+        ]
       },
       {
         "day": 21,
@@ -820,7 +1570,10 @@
           "lng": 79.45
         },
         "location_name": "Karimnagar, Telangana",
-        "tags": ["Economy", "Reform"]
+        "tags": [
+          "Economy",
+          "Reform"
+        ]
       },
       {
         "day": 22,
@@ -835,7 +1588,10 @@
           "lng": 73.8567
         },
         "location_name": "Ganeshkhind Road, Pune",
-        "tags": ["Revolutionary", "Pune"]
+        "tags": [
+          "Revolutionary",
+          "Pune"
+        ]
       },
       {
         "day": 23,
@@ -850,7 +1606,10 @@
           "lng": 88.25
         },
         "location_name": "Plassey, West Bengal",
-        "tags": ["Bengal", "British Raj"]
+        "tags": [
+          "Bengal",
+          "British Raj"
+        ]
       },
       {
         "day": 24,
@@ -858,14 +1617,17 @@
         "title": "Death of Rani Durgavati",
         "category": "Medieval India",
         "short_summary": "The Gond Queen died fighting the Mughal army.",
-        "full_story": "Rather than surrender to the forces of Akbar\u2019s general Asaf Khan, she chose to martyr herself, remaining a symbol of Gond bravery.",
+        "full_story": "Rather than surrender to the forces of Akbar’s general Asaf Khan, she chose to martyr herself, remaining a symbol of Gond bravery.",
         "ai_insight": "The soil of Jabalpur remembers a queen who chose death over dishonor.",
         "coordinates": {
           "lat": 23.1667,
           "lng": 79.9333
         },
         "location_name": "Jabalpur, Madhya Pradesh",
-        "tags": ["Gondwana", "Warrior"]
+        "tags": [
+          "Gondwana",
+          "Warrior"
+        ]
       },
       {
         "day": 25,
@@ -880,7 +1642,10 @@
           "lng": 77.2273
         },
         "location_name": "New Delhi, Delhi",
-        "tags": ["Emergency", "Politics"]
+        "tags": [
+          "Emergency",
+          "Politics"
+        ]
       },
       {
         "day": 26,
@@ -895,7 +1660,10 @@
           "lng": 88.37
         },
         "location_name": "Naihati, West Bengal",
-        "tags": ["Literature", "National Anthem"]
+        "tags": [
+          "Literature",
+          "National Anthem"
+        ]
       },
       {
         "day": 27,
@@ -910,7 +1678,10 @@
           "lng": 74.8765
         },
         "location_name": "Golden Temple (Heritage Context)",
-        "tags": ["Sikh Empire", "Punjab"]
+        "tags": [
+          "Sikh Empire",
+          "Punjab"
+        ]
       },
       {
         "day": 28,
@@ -925,7 +1696,10 @@
           "lng": 78.4867
         },
         "location_name": "Hyderabad, Telangana",
-        "tags": ["Politics", "Legacy"]
+        "tags": [
+          "Politics",
+          "Legacy"
+        ]
       },
       {
         "day": 29,
@@ -940,7 +1714,10 @@
           "lng": 88.37
         },
         "location_name": "ISI, Kolkata",
-        "tags": ["Statistics", "Planning"]
+        "tags": [
+          "Statistics",
+          "Planning"
+        ]
       },
       {
         "day": 30,
@@ -955,7 +1732,10 @@
           "lng": 87.45
         },
         "location_name": "Bhognadih, Jharkhand",
-        "tags": ["Tribal Revolt", "History"]
+        "tags": [
+          "Tribal Revolt",
+          "History"
+        ]
       }
     ]
   },
@@ -975,7 +1755,10 @@
           "lng": 72.8236
         },
         "location_name": "Nariman Point, Mumbai",
-        "tags": ["Economy", "Banking"]
+        "tags": [
+          "Economy",
+          "Banking"
+        ]
       },
       {
         "day": 2,
@@ -990,7 +1773,10 @@
           "lng": 77.1734
         },
         "location_name": "Viceregal Lodge, Shimla",
-        "tags": ["Diplomacy", "History"]
+        "tags": [
+          "Diplomacy",
+          "History"
+        ]
       },
       {
         "day": 3,
@@ -999,13 +1785,16 @@
         "category": "Freedom Struggle",
         "short_summary": "Tilak was arrested by the British on charges of sedition.",
         "full_story": "His arrest for writings in the 'Kesari' newspaper led to his six-year imprisonment in Mandalay, Myanmar, fueling the nationalist fire.",
-        "ai_insight": "Swaraj is my birthright\u2014a slogan that no prison wall could ever silence.",
+        "ai_insight": "Swaraj is my birthright—a slogan that no prison wall could ever silence.",
         "coordinates": {
           "lat": 18.5204,
           "lng": 73.8567
         },
         "location_name": "Kesari Wada, Pune",
-        "tags": ["Tilak", "Swaraj"]
+        "tags": [
+          "Tilak",
+          "Swaraj"
+        ]
       },
       {
         "day": 4,
@@ -1020,7 +1809,10 @@
           "lng": 83.2185
         },
         "location_name": "Visakhapatnam, Andhra Pradesh",
-        "tags": ["Tribal Revolt", "Freedom"]
+        "tags": [
+          "Tribal Revolt",
+          "Freedom"
+        ]
       },
       {
         "day": 5,
@@ -1035,7 +1827,10 @@
           "lng": 77.2153
         },
         "location_name": "North Block, Delhi",
-        "tags": ["Sardar Patel", "Unity"]
+        "tags": [
+          "Sardar Patel",
+          "Unity"
+        ]
       },
       {
         "day": 6,
@@ -1050,22 +1845,28 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Politics", "Legacy"]
+        "tags": [
+          "Politics",
+          "Legacy"
+        ]
       },
       {
         "day": 7,
         "year": 1896,
         "title": "First Cinema Screening in India",
         "category": "Art & Culture",
-        "short_summary": "The Lumi\u00e8re brothers screened six short films in Mumbai.",
-        "full_story": "The show at Watson\u2019s Hotel marked the very first time moving pictures were shown on the Indian subcontinent.",
+        "short_summary": "The Lumière brothers screened six short films in Mumbai.",
+        "full_story": "The show at Watson’s Hotel marked the very first time moving pictures were shown on the Indian subcontinent.",
         "ai_insight": "A flicker of light in a hotel room was the dawn of a billion-dollar dream.",
         "coordinates": {
           "lat": 18.9284,
           "lng": 72.8311
         },
-        "location_name": "Watson\u2019s Hotel, Mumbai",
-        "tags": ["Cinema", "Heritage"]
+        "location_name": "Watson’s Hotel, Mumbai",
+        "tags": [
+          "Cinema",
+          "Heritage"
+        ]
       },
       {
         "day": 8,
@@ -1080,7 +1881,10 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Politics", "Bengal"]
+        "tags": [
+          "Politics",
+          "Bengal"
+        ]
       },
       {
         "day": 9,
@@ -1095,12 +1899,15 @@
           "lng": 72.8335
         },
         "location_name": "Dalal Street, Mumbai",
-        "tags": ["Finance", "Mumbai"]
+        "tags": [
+          "Finance",
+          "Mumbai"
+        ]
       },
       {
         "day": 10,
         "year": 1949,
-        "title": "Death of Sunil Gavaskar\u2019s Record?",
+        "title": "Death of Sunil Gavaskar’s Record?",
         "category": "Sports",
         "short_summary": "Birth of Sunil Gavaskar, the 'Little Master' of cricket.",
         "full_story": "One of the greatest opening batsmen in history, he was the first to reach 10,000 runs in Test cricket, inspiring a nation of cricketers.",
@@ -1110,7 +1917,10 @@
           "lng": 72.8258
         },
         "location_name": "Wankhede Stadium, Mumbai",
-        "tags": ["Cricket", "Legend"]
+        "tags": [
+          "Cricket",
+          "Legend"
+        ]
       },
       {
         "day": 11,
@@ -1125,7 +1935,10 @@
           "lng": 77.2215
         },
         "location_name": "Ambedkar Stadium Bus Terminal, Delhi",
-        "tags": ["Peace", "Diplomacy"]
+        "tags": [
+          "Peace",
+          "Diplomacy"
+        ]
       },
       {
         "day": 12,
@@ -1140,7 +1953,10 @@
           "lng": 72.8621
         },
         "location_name": "Bandra-Kurla Complex, Mumbai",
-        "tags": ["Rural Development", "Economy"]
+        "tags": [
+          "Rural Development",
+          "Economy"
+        ]
       },
       {
         "day": 13,
@@ -1148,14 +1964,17 @@
         "title": "First Football World Cup (Indian Connection)",
         "category": "Sports",
         "short_summary": "Though India didn't play, this day marks the start of global football fever.",
-        "full_story": "India\u2019s football heritage, centered in Kolkata (Mohun Bagan), had already established its roots by this time, defeating British teams barefoot.",
+        "full_story": "India’s football heritage, centered in Kolkata (Mohun Bagan), had already established its roots by this time, defeating British teams barefoot.",
         "ai_insight": "Passion for the game is a universal language, spoken barefoot or in boots.",
         "coordinates": {
           "lat": 22.5626,
           "lng": 88.3361
         },
         "location_name": "Maidan, Kolkata",
-        "tags": ["Football", "Heritage"]
+        "tags": [
+          "Football",
+          "Heritage"
+        ]
       },
       {
         "day": 14,
@@ -1170,7 +1989,10 @@
           "lng": 80.23
         },
         "location_name": "Satish Dhawan Space Centre, Sriharikota",
-        "tags": ["ISRO", "Moon Mission"]
+        "tags": [
+          "ISRO",
+          "Moon Mission"
+        ]
       },
       {
         "day": 15,
@@ -1185,7 +2007,10 @@
           "lng": 79.7036
         },
         "location_name": "Kanchipuram, Tamil Nadu",
-        "tags": ["Politics", "Social Justice"]
+        "tags": [
+          "Politics",
+          "Social Justice"
+        ]
       },
       {
         "day": 16,
@@ -1200,7 +2025,10 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Social Reform", "History"]
+        "tags": [
+          "Social Reform",
+          "History"
+        ]
       },
       {
         "day": 17,
@@ -1215,7 +2043,10 @@
           "lng": 80.2707
         },
         "location_name": "Fort St. George, Chennai",
-        "tags": ["City Change", "Identity"]
+        "tags": [
+          "City Change",
+          "Identity"
+        ]
       },
       {
         "day": 18,
@@ -1230,7 +2061,10 @@
           "lng": 77.2153
         },
         "location_name": "Viceregal Lodge, Delhi",
-        "tags": ["Independence", "Law"]
+        "tags": [
+          "Independence",
+          "Law"
+        ]
       },
       {
         "day": 19,
@@ -1245,7 +2079,10 @@
           "lng": 77.2273
         },
         "location_name": "Parliament House, Delhi",
-        "tags": ["Economy", "Indira Gandhi"]
+        "tags": [
+          "Economy",
+          "Indira Gandhi"
+        ]
       },
       {
         "day": 20,
@@ -1260,7 +2097,10 @@
           "lng": 88.3667
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Swadeshi", "Bengal"]
+        "tags": [
+          "Swadeshi",
+          "Bengal"
+        ]
       },
       {
         "day": 21,
@@ -1275,7 +2115,10 @@
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": ["Women", "Politics"]
+        "tags": [
+          "Women",
+          "Politics"
+        ]
       },
       {
         "day": 22,
@@ -1290,7 +2133,10 @@
           "lng": 77.2081
         },
         "location_name": "Constitution Hall, Delhi",
-        "tags": ["Flag", "Tiranga"]
+        "tags": [
+          "Flag",
+          "Tiranga"
+        ]
       },
       {
         "day": 23,
@@ -1305,7 +2151,10 @@
           "lng": 74.38
         },
         "location_name": "Bhabra, Madhya Pradesh",
-        "tags": ["Azad", "Revolutionary"]
+        "tags": [
+          "Azad",
+          "Revolutionary"
+        ]
       },
       {
         "day": 24,
@@ -1320,7 +2169,10 @@
           "lng": 77.2081
         },
         "location_name": "Parliament House, Delhi",
-        "tags": ["Economy", "Reform"]
+        "tags": [
+          "Economy",
+          "Reform"
+        ]
       },
       {
         "day": 25,
@@ -1329,13 +2181,16 @@
         "category": "Modern India",
         "short_summary": "The 'People's President' took office.",
         "full_story": "The scientist behind India's missile program became the 11th President, inspiring millions of students across the country.",
-        "ai_insight": "Dream, dream, dream\u2014for dreams transform into thoughts and thoughts result in action.",
+        "ai_insight": "Dream, dream, dream—for dreams transform into thoughts and thoughts result in action.",
         "coordinates": {
           "lat": 28.6143,
           "lng": 77.2153
         },
         "location_name": "Rashtrapati Bhavan, Delhi",
-        "tags": ["Kalam", "Science"]
+        "tags": [
+          "Kalam",
+          "Science"
+        ]
       },
       {
         "day": 26,
@@ -1350,7 +2205,10 @@
           "lng": 76.13
         },
         "location_name": "Kargil War Memorial, Dras",
-        "tags": ["Defense", "Victory"]
+        "tags": [
+          "Defense",
+          "Victory"
+        ]
       },
       {
         "day": 27,
@@ -1358,14 +2216,17 @@
         "title": "Death of APJ Abdul Kalam",
         "category": "Modern India",
         "short_summary": "India lost its beloved scientist and former President.",
-        "full_story": "He passed away while doing what he loved most\u2014delivering a lecture to students at IIM Shillong.",
+        "full_story": "He passed away while doing what he loved most—delivering a lecture to students at IIM Shillong.",
         "ai_insight": "A teacher to the very end; he taught a nation how to reach for the stars.",
         "coordinates": {
           "lat": 25.5788,
           "lng": 91.8833
         },
         "location_name": "IIM Shillong, Meghalaya",
-        "tags": ["Kalam", "Tribute"]
+        "tags": [
+          "Kalam",
+          "Tribute"
+        ]
       },
       {
         "day": 28,
@@ -1380,7 +2241,10 @@
           "lng": 73.8567
         },
         "location_name": "Pune, Maharashtra",
-        "tags": ["Home Rule", "History"]
+        "tags": [
+          "Home Rule",
+          "History"
+        ]
       },
       {
         "day": 29,
@@ -1389,13 +2253,16 @@
         "category": "Sports",
         "short_summary": "The first Indian team to win the IFA Shield by beating a British team.",
         "full_story": "Mohun Bagan defeated the East Yorkshire Regiment 2-1, playing barefoot. It was seen as a massive victory for Indian nationalism.",
-        "ai_insight": "Bare feet against boots\u2014it wasn't just a game, it was a battle for dignity.",
+        "ai_insight": "Bare feet against boots—it wasn't just a game, it was a battle for dignity.",
         "coordinates": {
           "lat": 22.5626,
           "lng": 88.3361
         },
         "location_name": "Eden Gardens (Heritage Context), Kolkata",
-        "tags": ["Football", "Nationalism"]
+        "tags": [
+          "Football",
+          "Nationalism"
+        ]
       },
       {
         "day": 30,
@@ -1410,7 +2277,10 @@
           "lng": 80.2575
         },
         "location_name": "Adyar, Chennai",
-        "tags": ["Home Rule", "Annie Besant"]
+        "tags": [
+          "Home Rule",
+          "Annie Besant"
+        ]
       },
       {
         "day": 31,
@@ -1425,7 +2295,10 @@
           "lng": 74.8723
         },
         "location_name": "Jallianwala Bagh (Heritage Context), Amritsar",
-        "tags": ["Udham Singh", "Justice"]
+        "tags": [
+          "Udham Singh",
+          "Justice"
+        ]
       }
     ]
   },
@@ -1445,7 +2318,10 @@
           "lng": 72.822
         },
         "location_name": "Girgaon Chowpatty, Mumbai",
-        "tags": ["Tilak", "Non-Cooperation"]
+        "tags": [
+          "Tilak",
+          "Non-Cooperation"
+        ]
       },
       {
         "day": 2,
@@ -1460,7 +2336,10 @@
           "lng": 80.6514
         },
         "location_name": "Bhatlapenumarru, Andhra Pradesh",
-        "tags": ["Tiranga", "Identity"]
+        "tags": [
+          "Tiranga",
+          "Identity"
+        ]
       },
       {
         "day": 3,
@@ -1475,7 +2354,10 @@
           "lng": 79.126
         },
         "location_name": "Budaun, Uttar Pradesh",
-        "tags": ["Cinema", "Poetry"]
+        "tags": [
+          "Cinema",
+          "Poetry"
+        ]
       },
       {
         "day": 4,
@@ -1490,7 +2372,10 @@
           "lng": 72.929
         },
         "location_name": "BARC, Trombay, Mumbai",
-        "tags": ["Science", "Atomic Energy"]
+        "tags": [
+          "Science",
+          "Atomic Energy"
+        ]
       },
       {
         "day": 5,
@@ -1505,7 +2390,10 @@
           "lng": 77.1734
         },
         "location_name": "Shimla, Himachal Pradesh",
-        "tags": ["Judiciary", "Women Empowerment"]
+        "tags": [
+          "Judiciary",
+          "Women Empowerment"
+        ]
       },
       {
         "day": 6,
@@ -1520,7 +2408,10 @@
           "lng": 80.2878
         },
         "location_name": "Madras High Court, Chennai",
-        "tags": ["Law", "Architecture"]
+        "tags": [
+          "Law",
+          "Architecture"
+        ]
       },
       {
         "day": 7,
@@ -1535,7 +2426,10 @@
           "lng": 88.3474
         },
         "location_name": "Town Hall, Kolkata",
-        "tags": ["Swadeshi", "Bengal"]
+        "tags": [
+          "Swadeshi",
+          "Bengal"
+        ]
       },
       {
         "day": 8,
@@ -1550,7 +2444,10 @@
           "lng": 72.8122
         },
         "location_name": "August Kranti Maidan, Mumbai",
-        "tags": ["Quit India", "Gandhi"]
+        "tags": [
+          "Quit India",
+          "Gandhi"
+        ]
       },
       {
         "day": 9,
@@ -1565,7 +2462,10 @@
           "lng": 80.8012
         },
         "location_name": "Kakori, Uttar Pradesh",
-        "tags": ["Revolutionary", "HRA"]
+        "tags": [
+          "Revolutionary",
+          "HRA"
+        ]
       },
       {
         "day": 10,
@@ -1580,7 +2480,10 @@
           "lng": 72.8347
         },
         "location_name": "Mumbai, Maharashtra",
-        "tags": ["Classical Music", "Heritage"]
+        "tags": [
+          "Classical Music",
+          "Heritage"
+        ]
       },
       {
         "day": 11,
@@ -1595,7 +2498,10 @@
           "lng": 85.3906
         },
         "location_name": "Muzaffarpur Jail, Bihar",
-        "tags": ["Martyr", "Revolution"]
+        "tags": [
+          "Martyr",
+          "Revolution"
+        ]
       },
       {
         "day": 12,
@@ -1610,22 +2516,28 @@
           "lng": 81.882
         },
         "location_name": "Allahabad Fort, Uttar Pradesh",
-        "tags": ["British Raj", "History"]
+        "tags": [
+          "British Raj",
+          "History"
+        ]
       },
       {
         "day": 13,
         "year": 1784,
-        "title": "Pitt\u2019s India Act Passed",
+        "title": "Pitt’s India Act Passed",
         "category": "Medieval India",
         "short_summary": "The British government took control over the East India Company.",
-        "full_story": "The Act established a Board of Control, ensuring that the Company\u2019s political activities were supervised by the British Crown.",
+        "full_story": "The Act established a Board of Control, ensuring that the Company’s political activities were supervised by the British Crown.",
         "ai_insight": "The merchant was now becoming the administrator under the watchful eye of the King.",
         "coordinates": {
           "lat": 13.0827,
           "lng": 80.2707
         },
         "location_name": "Fort St. George, Chennai",
-        "tags": ["Governance", "British Raj"]
+        "tags": [
+          "Governance",
+          "British Raj"
+        ]
       },
       {
         "day": 14,
@@ -1640,7 +2552,10 @@
           "lng": 77.2081
         },
         "location_name": "Parliament House, Delhi",
-        "tags": ["Independence", "Nehru"]
+        "tags": [
+          "Independence",
+          "Nehru"
+        ]
       },
       {
         "day": 15,
@@ -1655,7 +2570,10 @@
           "lng": 77.241
         },
         "location_name": "Red Fort, Delhi",
-        "tags": ["Independence", "Red Fort"]
+        "tags": [
+          "Independence",
+          "Red Fort"
+        ]
       },
       {
         "day": 16,
@@ -1670,7 +2588,10 @@
           "lng": 88.3639
         },
         "location_name": "Kolkata, West Bengal",
-        "tags": ["Partition", "History"]
+        "tags": [
+          "Partition",
+          "History"
+        ]
       },
       {
         "day": 17,
@@ -1678,14 +2599,17 @@
         "title": "Radcliffe Line Announced",
         "category": "Modern India",
         "short_summary": "The boundary between India and Pakistan was formally defined.",
-        "full_story": "Cyril Radcliffe\u2019s map divided Bengal and Punjab, resulting in the largest mass migration in human history.",
+        "full_story": "Cyril Radcliffe’s map divided Bengal and Punjab, resulting in the largest mass migration in human history.",
         "ai_insight": "A line drawn in ink became a scar on the heart of a subcontinent.",
         "coordinates": {
           "lat": 31.605,
           "lng": 74.57
         },
         "location_name": "Wagah Border, Amritsar",
-        "tags": ["Partition", "History"]
+        "tags": [
+          "Partition",
+          "History"
+        ]
       },
       {
         "day": 18,
@@ -1700,7 +2624,10 @@
           "lng": 88.351
         },
         "location_name": "Netaji Bhawan, Kolkata",
-        "tags": ["Netaji", "INA"]
+        "tags": [
+          "Netaji",
+          "INA"
+        ]
       },
       {
         "day": 19,
@@ -1715,7 +2642,10 @@
           "lng": 77.4126
         },
         "location_name": "Bhopal, Madhya Pradesh",
-        "tags": ["President", "Politics"]
+        "tags": [
+          "President",
+          "Politics"
+        ]
       },
       {
         "day": 20,
@@ -1730,22 +2660,28 @@
           "lng": 77.2153
         },
         "location_name": "Vir Bhumi, Delhi",
-        "tags": ["Rajiv Gandhi", "Modern India"]
+        "tags": [
+          "Rajiv Gandhi",
+          "Modern India"
+        ]
       },
       {
         "day": 21,
         "year": 1972,
         "title": "Wildlife Protection Act Passed",
         "category": "Modern India",
-        "short_summary": "India\u2019s landmark legislation to protect its natural heritage.",
+        "short_summary": "India’s landmark legislation to protect its natural heritage.",
         "full_story": "The Act provided the legal framework for the protection of wild animals, birds, and plants, ensuring the survival of iconic species like the Tiger.",
-        "ai_insight": "A nation is judged by how it treats its most silent citizens\u2014the wild.",
+        "ai_insight": "A nation is judged by how it treats its most silent citizens—the wild.",
         "coordinates": {
           "lat": 28.6129,
           "lng": 77.2273
         },
         "location_name": "Parliament House, Delhi",
-        "tags": ["Wildlife", "Environment"]
+        "tags": [
+          "Wildlife",
+          "Environment"
+        ]
       },
       {
         "day": 22,
@@ -1760,7 +2696,10 @@
           "lng": 72.8122
         },
         "location_name": "Elphinstone Mill, Mumbai",
-        "tags": ["Swadeshi", "Gandhi"]
+        "tags": [
+          "Swadeshi",
+          "Gandhi"
+        ]
       },
       {
         "day": 23,
@@ -1775,7 +2714,10 @@
           "lng": 80.23
         },
         "location_name": "ISRO Control Centre, Bengaluru",
-        "tags": ["ISRO", "Space"]
+        "tags": [
+          "ISRO",
+          "Space"
+        ]
       },
       {
         "day": 24,
@@ -1790,14 +2732,17 @@
           "lng": 72.8311
         },
         "location_name": "Surat, Gujarat",
-        "tags": ["British Raj", "History"]
+        "tags": [
+          "British Raj",
+          "History"
+        ]
       },
       {
         "day": 25,
         "year": 1917,
         "title": "Indian Officers in the Army",
         "category": "Modern India",
-        "short_summary": "British government allowed Indians to receive King\u2019s Commission.",
+        "short_summary": "British government allowed Indians to receive King’s Commission.",
         "full_story": "This allowed Indians to serve as officers in the British Indian Army, a major step toward a nationalized military.",
         "ai_insight": "The sword of India was finally being held by Indian hands.",
         "coordinates": {
@@ -1805,7 +2750,10 @@
           "lng": 77.2036
         },
         "location_name": "India Gate, Delhi",
-        "tags": ["Defense", "History"]
+        "tags": [
+          "Defense",
+          "History"
+        ]
       },
       {
         "day": 26,
@@ -1820,7 +2768,10 @@
           "lng": 88.3501
         },
         "location_name": "Mother House, Kolkata",
-        "tags": ["Mother Teresa", "Service"]
+        "tags": [
+          "Mother Teresa",
+          "Service"
+        ]
       },
       {
         "day": 27,
@@ -1835,7 +2786,10 @@
           "lng": 77.5771
         },
         "location_name": "Leh, Ladakh",
-        "tags": ["Kargil", "Valour"]
+        "tags": [
+          "Kargil",
+          "Valour"
+        ]
       },
       {
         "day": 28,
@@ -1850,7 +2804,10 @@
           "lng": 77.2153
         },
         "location_name": "Ministry of Environment, Delhi",
-        "tags": ["Environment", "Conservation"]
+        "tags": [
+          "Environment",
+          "Conservation"
+        ]
       },
       {
         "day": 29,
@@ -1865,7 +2822,10 @@
           "lng": 81.8333
         },
         "location_name": "Dhyan Chand Stadium, Lucknow",
-        "tags": ["Hockey", "National Sports Day"]
+        "tags": [
+          "Hockey",
+          "National Sports Day"
+        ]
       },
       {
         "day": 30,
@@ -1880,7 +2840,10 @@
           "lng": 78.0211
         },
         "location_name": "Agra Fort, Uttar Pradesh",
-        "tags": ["Mughal", "Architecture"]
+        "tags": [
+          "Mughal",
+          "Architecture"
+        ]
       },
       {
         "day": 31,
@@ -1895,7 +2858,10 @@
           "lng": 77.2153
         },
         "location_name": "Parliament House, Delhi",
-        "tags": ["Statehood", "Identity"]
+        "tags": [
+          "Statehood",
+          "Identity"
+        ]
       }
     ]
   },
@@ -1903,11 +2869,277 @@
     "month": "February",
     "data": [
       {
+        "day": 1,
+        "year": 1977,
+        "title": "Indian Coast Guard Established",
+        "category": "Military History",
+        "short_summary": "The fourth arm of India's defense forces was born.",
+        "full_story": "The Indian Coast Guard was formally established to protect the maritime interests and vast coastline of the Republic. It operates under the Ministry of Defence, ensuring the safety of artificial islands and offshore terminals.",
+        "ai_insight": "Security starts at the shore but extends to the horizon.",
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.209
+        },
+        "location_name": "Coast Guard HQ, Delhi",
+        "tags": [
+          "Navy",
+          "Coast Guard",
+          "Security"
+        ]
+      },
+      {
+        "day": 2,
+        "year": 1952,
+        "title": "India's First General Elections Conclusion",
+        "category": "Modern India",
+        "short_summary": "The massive democratic exercise reached its final stages.",
+        "full_story": "Spanning several months, the first general election of independent India was a feat of logistics and faith in the common citizen, setting the stage for the world's largest democracy.",
+        "ai_insight": "The ballot is stronger than the bullet; it is the heartbeat of a republic.",
+        "coordinates": {
+          "lat": 28.6172,
+          "lng": 77.2081
+        },
+        "location_name": "Parliament House, Delhi",
+        "tags": [
+          "Elections",
+          "Democracy",
+          "Nehru"
+        ]
+      },
+      {
+        "day": 3,
+        "year": 1928,
+        "title": "Simon Commission Arrives in India",
+        "category": "Independence Movement",
+        "short_summary": "The all-British commission arrived at Mumbai port.",
+        "full_story": "The commission was met with 'Simon Go Back' protests across the country because it lacked any Indian members. This unified the various factions of the freedom movement.",
+        "ai_insight": "You cannot decide the fate of a people without including their voice.",
+        "coordinates": {
+          "lat": 18.9219,
+          "lng": 72.8345
+        },
+        "location_name": "Gateway of India, Mumbai",
+        "tags": [
+          "Simon Commission",
+          "Protest",
+          "Lajpat Rai"
+        ]
+      },
+      {
+        "day": 4,
+        "year": 1922,
+        "title": "Chauri Chaura Incident",
+        "category": "Independence Movement",
+        "short_summary": "A violent clash led Gandhi to suspend the Non-Cooperation Movement.",
+        "full_story": "After a large group of protesters clashed with police and set fire to a police station, 22 officers were killed. Gandhi, committed to non-violence, called off the nationwide movement immediately.",
+        "ai_insight": "A movement is only as strong as its commitment to its core values, even in anger.",
+        "coordinates": {
+          "lat": 26.6438,
+          "lng": 83.5878
+        },
+        "location_name": "Chauri Chaura, Uttar Pradesh",
+        "tags": [
+          "Gandhi",
+          "Non-violence",
+          "Satyagraha"
+        ]
+      },
+      {
+        "day": 5,
+        "year": 1927,
+        "title": "Establishment of FICCI",
+        "category": "National Economy",
+        "short_summary": "India's oldest business organization was founded.",
+        "full_story": "The Federation of Indian Chambers of Commerce and Industry was established on the advice of Mahatma Gandhi to represent the interests of Indian business against colonial economic policies.",
+        "ai_insight": "Economic independence is the foundation upon which political freedom is built.",
+        "coordinates": {
+          "lat": 28.6256,
+          "lng": 77.2334
+        },
+        "location_name": "FICCI Federation House, Delhi",
+        "tags": [
+          "Economy",
+          "Business",
+          "Trade"
+        ]
+      },
+      {
+        "day": 6,
+        "year": 1890,
+        "title": "Birth of Khan Abdul Ghaffar Khan (Legacy)",
+        "category": "Independence Movement",
+        "short_summary": "Commemorating the birth of the 'Frontier Gandhi'.",
+        "full_story": "A lifelong pacifist and close ally of Gandhi, he founded the 'Red Shirts' (Khudai Khidmatgar) to fight British rule through strictly non-violent means.",
+        "ai_insight": "True strength is the courage to remain peaceful when the world is at war.",
+        "coordinates": {
+          "lat": 34.1501,
+          "lng": 71.7406
+        },
+        "location_name": "Utmanzai (Historical NWFP)",
+        "tags": [
+          "Bacha Khan",
+          "Non-violence",
+          "Freedom"
+        ]
+      },
+      {
+        "day": 7,
+        "year": 1992,
+        "title": "Establishment of the Indian Coast Guard Air Station",
+        "category": "Military History",
+        "short_summary": "Enhanced maritime surveillance with the first air station in Daman.",
+        "full_story": "The commissioning of the air station marked a significant jump in India's ability to monitor its Exclusive Economic Zone (EEZ) and conduct Search and Rescue operations.",
+        "ai_insight": "Watching from the skies ensures safety on the seas.",
+        "coordinates": {
+          "lat": 20.4357,
+          "lng": 72.8427
+        },
+        "location_name": "Daman, UT",
+        "tags": [
+          "Coast Guard",
+          "Aviation",
+          "Security"
+        ]
+      },
+      {
+        "day": 8,
+        "year": 1897,
+        "title": "Birth of Zakir Hussain",
+        "category": "Modern India",
+        "short_summary": "Birth of the third President of India.",
+        "full_story": "An eminent educationist and philosopher, Dr. Zakir Hussain was a co-founder of Jamia Millia Islamia and a staunch advocate for the Nai Talim (New Education) system.",
+        "ai_insight": "Education is the primary instrument of national purpose.",
+        "coordinates": {
+          "lat": 17.385,
+          "lng": 78.4867
+        },
+        "location_name": "Hyderabad, Telangana",
+        "tags": [
+          "President",
+          "Education",
+          "Leader"
+        ]
+      },
+      {
+        "day": 9,
+        "year": 1951,
+        "title": "First Census of Independent India",
+        "category": "Modern India",
+        "short_summary": "The first official count of the Republic's citizens began.",
+        "full_story": "The 1951 census was a monumental task, identifying the demographic and social makeup of a newly free nation to aid in planned development.",
+        "ai_insight": "To serve a people, you must first know who they are.",
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.209
+        },
+        "location_name": "New Delhi",
+        "tags": [
+          "Census",
+          "Data",
+          "Planning"
+        ]
+      },
+      {
+        "day": 10,
+        "year": 1921,
+        "title": "Inauguration of India Gate",
+        "category": "National Landmarks",
+        "short_summary": "Foundation stone of the All India War Memorial was laid.",
+        "full_story": "Designed by Edwin Lutyens, it was built to honor the Indian soldiers who died in World War I. It later became the site of the Amar Jawan Jyoti.",
+        "ai_insight": "Stone and flame keep the memory of the fallen alive for generations.",
+        "coordinates": {
+          "lat": 28.6129,
+          "lng": 77.2295
+        },
+        "location_name": "India Gate, New Delhi",
+        "tags": [
+          "Monument",
+          "History",
+          "Military"
+        ]
+      },
+      {
+        "day": 11,
+        "year": 1956,
+        "title": "Death of PC Lal (Legacy)",
+        "category": "Military History",
+        "short_summary": "Remembering the Chief of Air Staff during the 1971 war.",
+        "full_story": "Air Chief Marshal Pratap Chandra Lal's leadership was instrumental in achieving total air superiority during the liberation of Bangladesh.",
+        "ai_insight": "Victory is decided in the skies before it is won on the ground.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Air Force",
+          "1971 War",
+          "Hero"
+        ]
+      },
+      {
+        "day": 12,
+        "year": 1824,
+        "title": "Birth of Dayananda Saraswati",
+        "category": "Social Reform",
+        "short_summary": "Birth of the founder of the Arya Samaj.",
+        "full_story": "A great scholar and social reformer, he gave the call 'Back to the Vedas' and fought against idol worship, casteism, and untouchability.",
+        "ai_insight": "True reform requires returning to the roots of wisdom to prune the dead branches of tradition.",
+        "coordinates": {
+          "lat": 22.6575,
+          "lng": 70.7628
+        },
+        "location_name": "Tankara, Gujarat",
+        "tags": [
+          "Arya Samaj",
+          "Reform",
+          "Vedas"
+        ]
+      },
+      {
+        "day": 13,
+        "year": 1879,
+        "title": "Birth of Sarojini Naidu",
+        "category": "Arts & Culture",
+        "short_summary": "Birth of the 'Nightingale of India'.",
+        "full_story": "A champion of women's rights and a key figure in the freedom struggle, her poetry and political leadership broke barriers for women in India.",
+        "ai_insight": "The voice of a woman can lead a nation and soothe its soul simultaneously.",
+        "coordinates": {
+          "lat": 17.385,
+          "lng": 78.4867
+        },
+        "location_name": "Hyderabad, Telangana",
+        "tags": [
+          "Sarojini Naidu",
+          "Poetry",
+          "Freedom"
+        ]
+      },
+      {
+        "day": 14,
+        "year": 1952,
+        "title": "Sangeet Natak Akademi Established",
+        "category": "Arts & Culture",
+        "short_summary": "National academy for music, dance, and drama was formed.",
+        "full_story": "Created by the Ministry of Education, it serves as the apex body for the performing arts in India, preserving the nation's cultural heritage.",
+        "ai_insight": "A nation's identity is stored in its songs and rhythms.",
+        "coordinates": {
+          "lat": 28.6253,
+          "lng": 77.2343
+        },
+        "location_name": "Rabindra Bhavan, Delhi",
+        "tags": [
+          "Art",
+          "Music",
+          "Culture"
+        ]
+      },
+      {
         "day": 15,
         "year": 1764,
         "title": "Founding of St. Louis (Contextual)",
         "category": "World History",
-        "short_summary": "Pierre Lacl\u00e8de founded the settlement of St. Louis.",
+        "short_summary": "Pierre Laclède founded the settlement of St. Louis.",
         "full_story": "A significant moment in colonial territory history that eventually influenced global trade routes.",
         "ai_insight": "Even a small settlement can become the gateway to a continent.",
         "coordinates": {
@@ -1915,7 +3147,29 @@
           "lng": -90.1994
         },
         "location_name": "St. Louis, MO",
-        "tags": ["Founding", "Colonial"]
+        "tags": [
+          "Founding",
+          "Colonial"
+        ]
+      },
+      {
+        "day": 15,
+        "year": 1948,
+        "title": "Merger of Kathiawar States",
+        "category": "Modern India",
+        "short_summary": "The United State of Kathiawar was formed.",
+        "full_story": "Under the leadership of Sardar Patel, 222 small princely states in Gujarat merged to form a single administrative unit, a key step in national integration.",
+        "ai_insight": "Unity is the strength that turns a thousand fragments into a single sword.",
+        "coordinates": {
+          "lat": 22.3039,
+          "lng": 70.8022
+        },
+        "location_name": "Rajkot, Gujarat",
+        "tags": [
+          "Sardar Patel",
+          "Integration",
+          "History"
+        ]
       },
       {
         "day": 16,
@@ -1930,7 +3184,1426 @@
           "lng": 80.648
         },
         "location_name": "McLean, Virginia",
-        "tags": ["Science", "Astronomy"]
+        "tags": [
+          "Science",
+          "Astronomy"
+        ]
+      },
+      {
+        "day": 16,
+        "year": 1944,
+        "title": "Dadasaheb Phalke Passes Away",
+        "category": "Arts & Culture",
+        "short_summary": "The Father of Indian Cinema breathed his last.",
+        "full_story": "Phalke made India's first indigenous feature film, Raja Harishchandra, in 1913, laying the foundation for what would become the world's largest film industry.",
+        "ai_insight": "One man's vision can create a billion dreams on screen.",
+        "coordinates": {
+          "lat": 19.9975,
+          "lng": 73.7898
+        },
+        "location_name": "Nashik, Maharashtra",
+        "tags": [
+          "Cinema",
+          "Phalke",
+          "History"
+        ]
+      },
+      {
+        "day": 17,
+        "year": 1915,
+        "title": "Gandhiji Visits Shantiniketan",
+        "category": "Independence Movement",
+        "short_summary": "The first meeting of Gandhi and Tagore's ideologies.",
+        "full_story": "Gandhi visited Tagore's school, Shantiniketan, after his return from South Africa. This marked the beginning of a profound mutual respect between the Mahatma and the Gurudev.",
+        "ai_insight": "When the soul of a poet meets the heart of a saint, a nation finds its spirit.",
+        "coordinates": {
+          "lat": 23.6784,
+          "lng": 87.6747
+        },
+        "location_name": "Shantiniketan, West Bengal",
+        "tags": [
+          "Gandhi",
+          "Tagore",
+          "Education"
+        ]
+      },
+      {
+        "day": 18,
+        "year": 1946,
+        "title": "Royal Indian Navy Mutiny",
+        "category": "Independence Movement",
+        "short_summary": "Indian sailors revolted against British officers in Mumbai.",
+        "full_story": "Starting on the HMIS Talwar, the strike spread across naval bases in India. It was a final signal to the British that the armed forces would no longer support colonial rule.",
+        "ai_insight": "When the defenders of a crown refuse to serve, the empire has already fallen.",
+        "coordinates": {
+          "lat": 18.922,
+          "lng": 72.8333
+        },
+        "location_name": "Mumbai Naval Dockyard",
+        "tags": [
+          "Navy",
+          "Mutiny",
+          "Freedom"
+        ]
+      },
+      {
+        "day": 19,
+        "year": 1630,
+        "title": "Chhatrapati Shivaji Maharaj Jayanti",
+        "category": "Medieval India",
+        "short_summary": "Birth of the founder of the Maratha Empire.",
+        "full_story": "Born in Shivneri Fort, Shivaji revolutionized military tactics with guerrilla warfare and established a sovereign 'Hindavi Swarajya'.",
+        "ai_insight": "A leader's legacy is etched in the forts he builds and the freedom he inspires.",
+        "coordinates": {
+          "lat": 19.1996,
+          "lng": 73.8604
+        },
+        "location_name": "Shivneri Fort, Maharashtra",
+        "tags": [
+          "Shivaji",
+          "Maratha",
+          "History"
+        ]
+      },
+      {
+        "day": 20,
+        "year": 1987,
+        "title": "Statehood of Arunachal Pradesh & Mizoram",
+        "category": "Modern India",
+        "short_summary": "Two new states were added to the Indian Union.",
+        "full_story": "Arunachal Pradesh and Mizoram were elevated from Union Territories to full-fledged states, strengthening the democratic fabric of the Northeast.",
+        "ai_insight": "The rising sun and the blue mountains find their place in the heart of the Republic.",
+        "coordinates": {
+          "lat": 27.0844,
+          "lng": 93.6053
+        },
+        "location_name": "Itanagar, Arunachal Pradesh",
+        "tags": [
+          "Northeast",
+          "Statehood",
+          "Identity"
+        ]
+      },
+      {
+        "day": 21,
+        "year": 1952,
+        "title": "International Mother Language Day (Legacy)",
+        "category": "Culture & Rights",
+        "short_summary": "Commemorating the struggle for linguistic rights.",
+        "full_story": "While globally observed, it holds deep significance for India's linguistic diversity and the Bhasha Andolan in East Bengal (now Bangladesh).",
+        "ai_insight": "The language of the heart is the most powerful tool for resistance and identity.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Language",
+          "Culture",
+          "Rights"
+        ]
+      },
+      {
+        "day": 22,
+        "year": 1944,
+        "title": "Death of Kasturba Gandhi",
+        "category": "Independence Movement",
+        "short_summary": "The 'Ba' of the freedom struggle passed away in prison.",
+        "full_story": "Kasturba Gandhi died at the Aga Khan Palace while under arrest. She was a silent pillar of strength and an activist in her own right.",
+        "ai_insight": "Behind the greatest movements are the strongest, most resilient souls.",
+        "coordinates": {
+          "lat": 18.5524,
+          "lng": 73.9015
+        },
+        "location_name": "Aga Khan Palace, Pune",
+        "tags": [
+          "Kasturba",
+          "Gandhi",
+          "Sacrifice"
+        ]
+      },
+      {
+        "day": 23,
+        "year": 1969,
+        "title": "Death of Madhubala (Legacy)",
+        "category": "Arts & Culture",
+        "short_summary": "The 'Venus of Indian Cinema' passed away.",
+        "full_story": "Known for her iconic role in 'Mughal-e-Azam', Madhubala remains one of the most beloved and visually stunning actresses in film history.",
+        "ai_insight": "True beauty is timeless, living on in the flicker of black and white frames.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Cinema",
+          "Madhubala",
+          "Art"
+        ]
+      },
+      {
+        "day": 24,
+        "year": 1948,
+        "title": "Birth of J. Jayalalithaa",
+        "category": "Politics & Arts",
+        "short_summary": "Birth of the legendary 'Amma' of Tamil Nadu.",
+        "full_story": "A star actress who transitioned into a formidable political leader, serving six terms as the Chief Minister of Tamil Nadu.",
+        "ai_insight": "A leader's power comes from her connection with the people she serves.",
+        "coordinates": {
+          "lat": 12.5937,
+          "lng": 76.6214
+        },
+        "location_name": "Melukote, Karnataka",
+        "tags": [
+          "Politics",
+          "Tamil Nadu",
+          "Leader"
+        ]
+      },
+      {
+        "day": 25,
+        "year": 2019,
+        "title": "Inauguration of National War Memorial",
+        "category": "Military History",
+        "short_summary": "A tribute to soldiers who died for independent India.",
+        "full_story": "The memorial features four concentric circles (Amar, Veerta, Tyag, Rakshak) representing the different aspects of military life and sacrifice.",
+        "ai_insight": "Gratitude is a flame that must never be allowed to go out.",
+        "coordinates": {
+          "lat": 28.612,
+          "lng": 77.229
+        },
+        "location_name": "National War Memorial, Delhi",
+        "tags": [
+          "Military",
+          "Monument",
+          "Honor"
+        ]
+      },
+      {
+        "day": 26,
+        "year": 1966,
+        "title": "Death of V.D. Savarkar",
+        "category": "Independence Movement",
+        "short_summary": "Passing of the revolutionary leader and thinker.",
+        "full_story": "Savarkar was a key figure in the revolutionary struggle against the British and a prolific writer who spent years in the Cellular Jail.",
+        "ai_insight": "Ideology is the fire that drives history, often through the darkest of cells.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Savarkar",
+          "Revolutionary",
+          "History"
+        ]
+      },
+      {
+        "day": 27,
+        "year": 1931,
+        "title": "Martyrdom of Chandra Shekhar Azad",
+        "category": "Independence Movement",
+        "short_summary": "Azad fought his last battle at Alfred Park.",
+        "full_story": "When surrounded by police, Azad fought until his last bullet, which he used on himself to fulfill his vow of never being caught alive.",
+        "ai_insight": "A free man is one who owns even his final moment of life.",
+        "coordinates": {
+          "lat": 25.4587,
+          "lng": 81.8507
+        },
+        "location_name": "Alfred Park, Prayagraj",
+        "tags": [
+          "Azad",
+          "Revolutionary",
+          "Martyr"
+        ]
+      },
+      {
+        "day": 28,
+        "year": 1928,
+        "title": "National Science Day (Discovery of Raman Effect)",
+        "category": "Science & Innovation",
+        "short_summary": "Sir C.V. Raman discovered the scattering of light.",
+        "full_story": "This discovery won him the Nobel Prize in Physics, making him the first Asian to win the prize in a scientific field.",
+        "ai_insight": "Curiosity is the light that reveals the secrets of the universe.",
+        "coordinates": {
+          "lat": 13.0118,
+          "lng": 80.2454
+        },
+        "location_name": "IACS, Kolkata",
+        "tags": [
+          "Science",
+          "Raman Effect",
+          "Discovery"
+        ]
+      }
+    ]
+  },
+  "3": {
+    "month": "March",
+    "data": [
+      {
+        "day": 1,
+        "year": 1968,
+        "title": "Establishment of the Auroville",
+        "category": "Philosophy & Culture",
+        "short_summary": "The 'City of Dawn' was inaugurated in Puducherry.",
+        "full_story": "Founded by Mirra Alfassa ('The Mother'), Auroville was envisioned as a universal town where people of all countries are able to live in peace and progressive harmony, above all creeds and nationalities.",
+        "ai_insight": "A utopia is not a place to escape the world, but a laboratory to transform it.",
+        "coordinates": {
+          "lat": 12.0069,
+          "lng": 79.8105
+        },
+        "location_name": "Auroville, Puducherry",
+        "tags": [
+          "Philosophy",
+          "Peace",
+          "Auroville"
+        ]
+      },
+      {
+        "day": 2,
+        "year": 1949,
+        "title": "Passing of Sarojini Naidu",
+        "category": "Modern India",
+        "short_summary": "The nation mourned the loss of the Nightingale of India.",
+        "full_story": "After serving as the first female Governor of Uttar Pradesh, Sarojini Naidu passed away. Her legacy as a poet and a freedom fighter remains a cornerstone of Indian history.",
+        "ai_insight": "Words spoken with courage echo longer than the life of the speaker.",
+        "coordinates": {
+          "lat": 26.8467,
+          "lng": 80.9462
+        },
+        "location_name": "Lucknow, Uttar Pradesh",
+        "tags": [
+          "Sarojini Naidu",
+          "History",
+          "Leader"
+        ]
+      },
+      {
+        "day": 3,
+        "year": 1839,
+        "title": "Birth of Jamsetji Tata",
+        "category": "National Economy",
+        "short_summary": "Birth of the Father of Indian Industry.",
+        "full_story": "Founder of the Tata Group, Jamsetji's vision led to the creation of the Indian Institute of Science, Tata Steel, and the Taj Mahal Palace Hotel.",
+        "ai_insight": "True industry is not just about building factories, but building a nation's self-respect.",
+        "coordinates": {
+          "lat": 20.6277,
+          "lng": 72.9348
+        },
+        "location_name": "Navsari, Gujarat",
+        "tags": [
+          "Tata",
+          "Industry",
+          "Economy"
+        ]
+      },
+      {
+        "day": 4,
+        "year": 1951,
+        "title": "The First Asian Games Begin",
+        "category": "Sports",
+        "short_summary": "New Delhi hosted the inaugural Asian Games.",
+        "full_story": "India hosted 11 nations in the first-ever Asian Games at the Major Dhyan Chand National Stadium, promoting Asian unity through sport.",
+        "ai_insight": "Sport is the universal language that turns competitors into friends.",
+        "coordinates": {
+          "lat": 28.6131,
+          "lng": 77.2345
+        },
+        "location_name": "National Stadium, Delhi",
+        "tags": [
+          "Asian Games",
+          "Sports",
+          "Unity"
+        ]
+      },
+      {
+        "day": 5,
+        "year": 1931,
+        "title": "Gandhi-Irwin Pact Signed",
+        "category": "Independence Movement",
+        "short_summary": "A truce between the Congress and the British Raj.",
+        "full_story": "Lord Irwin and Mahatma Gandhi signed a pact leading to the release of political prisoners and the end of the Salt Satyagraha in exchange for participation in the Round Table Conference.",
+        "ai_insight": "Diplomacy is the art of moving a mountain through a conversation.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Viceroy's House, Delhi",
+        "tags": [
+          "Gandhi",
+          "Diplomacy",
+          "British Raj"
+        ]
+      },
+      {
+        "day": 6,
+        "year": 1961,
+        "title": "Launch of INS Vikrant",
+        "category": "Military History",
+        "short_summary": "India's first aircraft carrier was commissioned.",
+        "full_story": "Acquired from the UK, the INS Vikrant made India a blue-water power and played a heroic role in the 1971 naval blockade.",
+        "ai_insight": "A nation's strength is its ability to project peace across the deep blue.",
+        "coordinates": {
+          "lat": 18.9218,
+          "lng": 72.8333
+        },
+        "location_name": "Mumbai Naval Dockyard",
+        "tags": [
+          "Navy",
+          "Vikrant",
+          "Defense"
+        ]
+      },
+      {
+        "day": 7,
+        "year": 1911,
+        "title": "Birth of S.H. Vatsyayan 'Agyeya'",
+        "category": "Media & Literature",
+        "short_summary": "Birth of the pioneer of modern Hindi literature.",
+        "full_story": "Agyeya was a poet, novelist, and journalist who introduced the 'Prayogvaad' (Experimentalism) movement in Hindi poetry.",
+        "ai_insight": "To experiment with language is to experiment with the soul of a culture.",
+        "coordinates": {
+          "lat": 26.749,
+          "lng": 83.9161
+        },
+        "location_name": "Kushinagar, Uttar Pradesh",
+        "tags": [
+          "Literature",
+          "Poetry",
+          "Hindi"
+        ]
+      },
+      {
+        "day": 8,
+        "year": 1953,
+        "title": "Air India Nationalized",
+        "category": "National Economy",
+        "short_summary": "The government took over the flagship carrier.",
+        "full_story": "The Air Corporations Act was passed, leading to the nationalization of nine airlines, including J.R.D. Tata's Air India.",
+        "ai_insight": "A nation's wings are often shaped by the shifting winds of policy.",
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.209
+        },
+        "location_name": "New Delhi",
+        "tags": [
+          "Air India",
+          "Aviation",
+          "Economy"
+        ]
+      },
+      {
+        "day": 9,
+        "year": 1994,
+        "title": "Passing of Charles Correa (Legacy)",
+        "category": "Arts & Culture",
+        "short_summary": "Commemorating India's master architect.",
+        "full_story": "Correa was a pioneer of post-independence architecture, known for the Sabarmati Ashram museum and the Jawahar Kala Kendra.",
+        "ai_insight": "Architecture is the silent music of space and light.",
+        "coordinates": {
+          "lat": 19.076,
+          "lng": 72.8777
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Architecture",
+          "Design",
+          "Art"
+        ]
+      },
+      {
+        "day": 10,
+        "year": 1897,
+        "title": "Passing of Savitribai Phule",
+        "category": "Social Reform",
+        "short_summary": "The mother of Indian feminism breathed her last.",
+        "full_story": "She died serving plague victims during the third pandemic in Pune, epitomizing a life dedicated to the marginalized.",
+        "ai_insight": "The greatest lesson a teacher gives is the example of their own life.",
+        "coordinates": {
+          "lat": 18.5204,
+          "lng": 73.8567
+        },
+        "location_name": "Pune, Maharashtra",
+        "tags": [
+          "Savitribai",
+          "Reform",
+          "Sacrifice"
+        ]
+      },
+      {
+        "day": 11,
+        "year": 1689,
+        "title": "Execution of Chhatrapati Sambhaji Maharaj",
+        "category": "Medieval India",
+        "short_summary": "The Maratha king faced a brutal martyrdom.",
+        "full_story": "Sambhaji was executed by Aurangzeb after weeks of torture. His refusal to convert sparked a fierce Maratha resistance that ultimately drained the Mughal Empire.",
+        "ai_insight": "Martyrdom is the fire that forges a nation's resolve to remain free.",
+        "coordinates": {
+          "lat": 18.6655,
+          "lng": 73.9744
+        },
+        "location_name": "Tulapur, Maharashtra",
+        "tags": [
+          "Sambhaji",
+          "Maratha",
+          "History"
+        ]
+      },
+      {
+        "day": 12,
+        "year": 1930,
+        "title": "The Dandi March Begins",
+        "category": "Independence Movement",
+        "short_summary": "Gandhi launched the Salt Satyagraha.",
+        "full_story": "Mahatma Gandhi set out with 78 volunteers for a 241-mile trek to the sea, making salt a symbol of resistance against British rule.",
+        "ai_insight": "A pinch of salt can bring an empire to its knees.",
+        "coordinates": {
+          "lat": 23.0166,
+          "lng": 72.5401
+        },
+        "location_name": "Sabarmati Ashram, Gujarat",
+        "tags": [
+          "Gandhi",
+          "Dandi",
+          "Non-violence"
+        ]
+      },
+      {
+        "day": 13,
+        "year": 1940,
+        "title": "Assassination of Michael O'Dwyer",
+        "category": "Independence Movement",
+        "short_summary": "Udham Singh avenged the Jallianwala Bagh massacre.",
+        "full_story": "In Caxton Hall, London, Udham Singh shot Michael O'Dwyer, who was the Lt. Governor of Punjab during the 1919 massacre.",
+        "ai_insight": "Justice delayed is a fire that travels across oceans.",
+        "coordinates": {
+          "lat": 51.4984,
+          "lng": -0.1332
+        },
+        "location_name": "Caxton Hall, London",
+        "tags": [
+          "Udham Singh",
+          "Justice",
+          "Martyr"
+        ]
+      },
+      {
+        "day": 14,
+        "year": 1931,
+        "title": "First Indian Talkie: Alam Ara",
+        "category": "Arts & Culture",
+        "short_summary": "The silent era of Indian cinema ended.",
+        "full_story": "Ardeshir Irani's 'Alam Ara' premiered at the Majestic Cinema in Mumbai, introducing sound and music to Indian film for the first time.",
+        "ai_insight": "The moment cinema found its voice, it found the heart of the people.",
+        "coordinates": {
+          "lat": 18.9167,
+          "lng": 72.8258
+        },
+        "location_name": "Majestic Cinema, Mumbai",
+        "tags": [
+          "Cinema",
+          "Alam Ara",
+          "Culture"
+        ]
+      },
+      {
+        "day": 15,
+        "year": 1934,
+        "title": "Birth of Kanshi Ram",
+        "category": "Social Reform",
+        "short_summary": "Birth of the leader of the Dalit movement.",
+        "full_story": "Founder of the BAMCEF and the Bahujan Samaj Party, Kanshi Ram worked for the political empowerment of the backward classes and Dalits.",
+        "ai_insight": "Political power is the master key to all social progress.",
+        "coordinates": {
+          "lat": 30.9325,
+          "lng": 76.5169
+        },
+        "location_name": "Ropar, Punjab",
+        "tags": [
+          "Kanshi Ram",
+          "Social Justice",
+          "Politics"
+        ]
+      },
+      {
+        "day": 16,
+        "year": 1950,
+        "title": "Establishment of the Planning Commission",
+        "category": "Modern India",
+        "short_summary": "India began its journey of Five-Year Plans.",
+        "full_story": "The Commission was formed with PM Nehru as Chairman to formulate plans for the effective utilization of the country's resources.",
+        "ai_insight": "A nation without a plan is a ship without a compass.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.2144
+        },
+        "location_name": "Yojana Bhavan, Delhi",
+        "tags": [
+          "Planning",
+          "Economy",
+          "Policy"
+        ]
+      },
+      {
+        "day": 17,
+        "year": 1962,
+        "title": "Birth of Kalpana Chawla",
+        "category": "Science & Innovation",
+        "short_summary": "Birth of the first Indian-born woman in space.",
+        "full_story": "Born in Karnal, Kalpana's journey to NASA and the stars inspired millions of young girls across India to pursue science and aerospace.",
+        "ai_insight": "The distance between a small town and the stars is only as wide as your dreams.",
+        "coordinates": {
+          "lat": 29.6857,
+          "lng": 76.9907
+        },
+        "location_name": "Karnal, Haryana",
+        "tags": [
+          "Space",
+          "Kalpana Chawla",
+          "Science"
+        ]
+      },
+      {
+        "day": 18,
+        "year": 1919,
+        "title": "Passing of the Rowlatt Act",
+        "category": "British Raj",
+        "short_summary": "The 'Black Act' sparked massive protests.",
+        "full_story": "The act allowed for the trial of certain political cases without juries and permitted internment without trial, leading to the Satyagraha movements.",
+        "ai_insight": "A law that silences freedom is a law that invites revolution.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.209
+        },
+        "location_name": "Imperial Legislative Council, Delhi",
+        "tags": [
+          "Rowlatt Act",
+          "History",
+          "Resistance"
+        ]
+      },
+      {
+        "day": 19,
+        "year": 1998,
+        "title": "Atal Bihari Vajpayee Becomes PM (Second Term)",
+        "category": "Modern India",
+        "short_summary": "The start of an era of infrastructure and nuclear status.",
+        "full_story": "Vajpayee took office as PM, leading a coalition that would soon oversee the Pokhran-II tests and the Golden Quadrilateral project.",
+        "ai_insight": "Visionary leadership is about building bridges for the next century.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Rashtrapati Bhavan, Delhi",
+        "tags": [
+          "Vajpayee",
+          "Politics",
+          "Leader"
+        ]
+      },
+      {
+        "day": 20,
+        "year": 1977,
+        "title": "Indira Gandhi Defeated in Elections",
+        "category": "Modern India",
+        "short_summary": "The end of the Emergency era.",
+        "full_story": "Following the lifting of the Emergency, the Janata Party won a landslide victory, marking the first non-Congress government at the Centre.",
+        "ai_insight": "Democracy is the ultimate correction mechanism of a nation.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.209
+        },
+        "location_name": "New Delhi",
+        "tags": [
+          "Democracy",
+          "Emergency",
+          "Politics"
+        ]
+      },
+      {
+        "day": 21,
+        "year": 1916,
+        "title": "Birth of Bismillah Khan",
+        "category": "Arts & Culture",
+        "short_summary": "Birth of the Shehnai maestro and Bharat Ratna awardee.",
+        "full_story": "Ustad Bismillah Khan was credited with elevating the Shehnai from the courtyard to the concert stage, symbolizing India's syncretic culture.",
+        "ai_insight": "A single note, played with soul, can bridge the gap between the human and the divine.",
+        "coordinates": {
+          "lat": 25.5941,
+          "lng": 84.1471
+        },
+        "location_name": "Dumraon, Bihar",
+        "tags": [
+          "Music",
+          "Bismillah Khan",
+          "Culture"
+        ]
+      },
+      {
+        "day": 22,
+        "year": 1912,
+        "title": "Formation of Bihar",
+        "category": "Modern India",
+        "short_summary": "Bihar was carved out of the Bengal Presidency.",
+        "full_story": "On this day, the province of Bihar and Orissa was created, marking the administrative birth of one of India's most historically rich regions.",
+        "ai_insight": "Geography changes, but the identity of a land remains in its history.",
+        "coordinates": {
+          "lat": 25.5941,
+          "lng": 85.1376
+        },
+        "location_name": "Patna, Bihar",
+        "tags": [
+          "Bihar",
+          "Statehood",
+          "History"
+        ]
+      },
+      {
+        "day": 23,
+        "year": 1931,
+        "title": "Shaheed Diwas",
+        "category": "Independence Movement",
+        "short_summary": "Martyrdom of Bhagat Singh, Rajguru, and Sukhdev.",
+        "full_story": "The three revolutionaries were hanged in Lahore Jail for the killing of British officer John Saunders, inspiring a million hearts toward freedom.",
+        "ai_insight": "They killed the man, but they could not kill the idea of revolution.",
+        "coordinates": {
+          "lat": 31.5204,
+          "lng": 74.3587
+        },
+        "location_name": "Hussainiwala Memorial, Punjab",
+        "tags": [
+          "Bhagat Singh",
+          "Martyrdom",
+          "Sacrifice"
+        ]
+      },
+      {
+        "day": 24,
+        "year": 1977,
+        "title": "Morarji Desai Becomes Prime Minister",
+        "category": "Modern India",
+        "short_summary": "India's first non-Congress PM took office.",
+        "full_story": "At the age of 81, Morarji Desai led the Janata Party government, restoring democratic institutions after the Emergency.",
+        "ai_insight": "Integrity and age are a powerful combination for restorative leadership.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Rashtrapati Bhavan, Delhi",
+        "tags": [
+          "Morarji Desai",
+          "Democracy",
+          "Leader"
+        ]
+      },
+      {
+        "day": 25,
+        "year": 1920,
+        "title": "Death of Ganesh Shankar Vidyarthi",
+        "category": "Media & Literature",
+        "short_summary": "The martyr-journalist who died for communal harmony.",
+        "full_story": "A fearless journalist and founder of 'Pratap', he died in Kanpur while trying to save people during communal riots.",
+        "ai_insight": "The pen is not just for writing; it is a shield for the innocent.",
+        "coordinates": {
+          "lat": 26.4499,
+          "lng": 80.3319
+        },
+        "location_name": "Kanpur, Uttar Pradesh",
+        "tags": [
+          "Journalism",
+          "Sacrifice",
+          "Harmony"
+        ]
+      },
+      {
+        "day": 26,
+        "year": 1907,
+        "title": "Birth of Mahadevi Varma",
+        "category": "Media & Literature",
+        "short_summary": "Birth of the 'Modern Meera' of Hindi poetry.",
+        "full_story": "A key pillar of the Chhayavad movement, she was a celebrated poet, essayist, and the first woman to be awarded the Jnanpith.",
+        "ai_insight": "Poetry is the shadow of a soul seeking the light of truth.",
+        "coordinates": {
+          "lat": 27.382,
+          "lng": 79.584
+        },
+        "location_name": "Farrukhabad, Uttar Pradesh",
+        "tags": [
+          "Literature",
+          "Poetry",
+          "Mahadevi Varma"
+        ]
+      },
+      {
+        "day": 27,
+        "year": 1898,
+        "title": "Passing of Sir Syed Ahmad Khan",
+        "category": "Social Reform",
+        "short_summary": "The founder of AMU and educator passed away.",
+        "full_story": "He was a philosopher and social activist who founded the Aligarh Muslim University, emphasizing modern education as a tool for progress.",
+        "ai_insight": "Education is the light that disperses the clouds of ignorance and stagnation.",
+        "coordinates": {
+          "lat": 27.8814,
+          "lng": 78.0734
+        },
+        "location_name": "Aligarh, Uttar Pradesh",
+        "tags": [
+          "Education",
+          "Reform",
+          "History"
+        ]
+      },
+      {
+        "day": 28,
+        "year": 1941,
+        "title": "Netaji Reaches Berlin",
+        "category": "Independence Movement",
+        "short_summary": "Subhas Chandra Bose arrived in Germany to seek help for freedom.",
+        "full_story": "After his great escape from house arrest in Kolkata, Netaji traveled through Afghanistan and the USSR to reach Berlin to organize the INA.",
+        "ai_insight": "A leader will go to the ends of the earth to find the tools for his nation's freedom.",
+        "coordinates": {
+          "lat": 52.52,
+          "lng": 13.405
+        },
+        "location_name": "Berlin, Germany",
+        "tags": [
+          "Netaji",
+          "INA",
+          "Freedom Struggle"
+        ]
+      },
+      {
+        "day": 29,
+        "year": 1857,
+        "title": "Mangal Pandey's Rebellion",
+        "category": "Independence Movement",
+        "short_summary": "The first spark of the 1857 Uprising.",
+        "full_story": "At Barrackpore, Mangal Pandey revolted against British officers over the use of greased cartridges, signaling the start of the Great Indian Revolt.",
+        "ai_insight": "A single spark of defiance can set an entire empire ablaze.",
+        "coordinates": {
+          "lat": 22.7667,
+          "lng": 88.3667
+        },
+        "location_name": "Barrackpore, West Bengal",
+        "tags": [
+          "Mangal Pandey",
+          "1857 Revolt",
+          "History"
+        ]
+      },
+      {
+        "day": 30,
+        "year": 1949,
+        "title": "Rajasthan Day",
+        "category": "Modern India",
+        "short_summary": "Formation of the Greater Rajasthan Union.",
+        "full_story": "The integration of princely states like Jaipur, Jodhpur, and Bikaner led to the creation of the largest state in India by area.",
+        "ai_insight": "The sands of time have witnessed the birth of a land of valor and color.",
+        "coordinates": {
+          "lat": 26.9124,
+          "lng": 75.7873
+        },
+        "location_name": "Jaipur, Rajasthan",
+        "tags": [
+          "Rajasthan",
+          "Statehood",
+          "History"
+        ]
+      },
+      {
+        "day": 31,
+        "year": 1865,
+        "title": "Anandi Gopal Joshi's Birth",
+        "category": "Science & Innovation",
+        "short_summary": "Birth of the first Indian female doctor of Western medicine.",
+        "full_story": "Against all odds, she traveled to the USA to earn her medical degree, paving the way for millions of Indian women in science.",
+        "ai_insight": "Breaking the ceiling is the first step to healing a nation.",
+        "coordinates": {
+          "lat": 19.186,
+          "lng": 72.9759
+        },
+        "location_name": "Thane, Maharashtra",
+        "tags": [
+          "Science",
+          "Education",
+          "Women Rights"
+        ]
+      }
+    ]
+  },
+  "4": {
+    "month": "April",
+    "data": [
+      {
+        "day": 1,
+        "year": 1935,
+        "title": "Establishment of the RBI",
+        "category": "National Economy",
+        "short_summary": "The Reserve Bank of India commenced operations.",
+        "full_story": "The RBI was established in accordance with the provisions of the RBI Act, 1934, as the central bank of India, moving its headquarters from Kolkata to Mumbai in 1937.",
+        "ai_insight": "A stable economy is the backbone of a sovereign nation.",
+        "coordinates": {
+          "lat": 18.9322,
+          "lng": 72.8355
+        },
+        "location_name": "RBI Headquarters, Mumbai",
+        "tags": [
+          "RBI",
+          "Economy",
+          "Banking"
+        ]
+      },
+      {
+        "day": 2,
+        "year": 1970,
+        "title": "Inauguration of Meghalaya",
+        "category": "Modern India",
+        "short_summary": "Meghalaya was formed as an autonomous state.",
+        "full_story": "Initially an autonomous state within Assam, Meghalaya was created following a peaceful movement, later gaining full statehood in 1972.",
+        "ai_insight": "The 'Abode of Clouds' found its unique voice within the Indian Union.",
+        "coordinates": {
+          "lat": 25.5788,
+          "lng": 91.8933
+        },
+        "location_name": "Shillong, Meghalaya",
+        "tags": [
+          "Northeast",
+          "Statehood",
+          "History"
+        ]
+      },
+      {
+        "day": 3,
+        "year": 1914,
+        "title": "Birth of Sam Manekshaw",
+        "category": "Military History",
+        "short_summary": "Birth of India's first Field Marshal.",
+        "full_story": "Known as 'Sam Bahadur', he was the Chief of Army Staff during the Indo-Pakistani War of 1971, leading India to a decisive victory.",
+        "ai_insight": "A leader's greatest weapon is the morale of his soldiers.",
+        "coordinates": {
+          "lat": 31.62,
+          "lng": 74.88
+        },
+        "location_name": "Amritsar, Punjab",
+        "tags": [
+          "Manekshaw",
+          "Army",
+          "1971 War"
+        ]
+      },
+      {
+        "day": 4,
+        "year": 1905,
+        "title": "The Kangra Earthquake",
+        "category": "Disaster & Recovery",
+        "short_summary": "A massive earthquake struck the Kangra Valley.",
+        "full_story": "Measuring 7.8 on the Richter scale, it was one of the deadliest earthquakes in Indian history, leading to significant changes in seismic study in India.",
+        "ai_insight": "Nature’s fury reminds us of the resilience required to rebuild.",
+        "coordinates": {
+          "lat": 32.0998,
+          "lng": 76.2691
+        },
+        "location_name": "Kangra, Himachal Pradesh",
+        "tags": [
+          "History",
+          "Environment",
+          "Recovery"
+        ]
+      },
+      {
+        "day": 5,
+        "year": 1919,
+        "title": "National Maritime Day",
+        "category": "Trade & Travel",
+        "short_summary": "The first Indian ship, SS Loyalty, sailed to London.",
+        "full_story": "Owned by Scindia Steam Navigation Company, this journey marked the beginning of modern Indian shipping in international waters.",
+        "ai_insight": "The sea is not a barrier, but a highway to global presence.",
+        "coordinates": {
+          "lat": 18.9219,
+          "lng": 72.8345
+        },
+        "location_name": "Mumbai Port, Maharashtra",
+        "tags": [
+          "Maritime",
+          "Trade",
+          "Navy"
+        ]
+      },
+      {
+        "day": 6,
+        "year": 1930,
+        "title": "Breaking the Salt Law at Dandi",
+        "category": "Independence Movement",
+        "short_summary": "Gandhi picked up a handful of salt.",
+        "full_story": "After the 24-day march, Gandhi reached the shores of Dandi and produced salt, sparking the Civil Disobedience Movement across India.",
+        "ai_insight": "Symbolic acts are the most powerful catalysts for revolution.",
+        "coordinates": {
+          "lat": 20.8906,
+          "lng": 72.7844
+        },
+        "location_name": "Dandi, Gujarat",
+        "tags": [
+          "Gandhi",
+          "Satyagraha",
+          "Dandi"
+        ]
+      },
+      {
+        "day": 7,
+        "year": 1920,
+        "title": "Birth of Ravi Shankar",
+        "category": "Arts & Culture",
+        "short_summary": "Birth of the Sitar maestro.",
+        "full_story": "Pandit Ravi Shankar was instrumental in introducing Indian classical music to the Western world, collaborating with icons like The Beatles.",
+        "ai_insight": "Music is the thread that weaves different worlds into a single tapestry.",
+        "coordinates": {
+          "lat": 25.3176,
+          "lng": 82.9739
+        },
+        "location_name": "Varanasi, Uttar Pradesh",
+        "tags": [
+          "Music",
+          "Sitar",
+          "Culture"
+        ]
+      },
+      {
+        "day": 8,
+        "year": 1929,
+        "title": "Bombing of the Central Legislative Assembly",
+        "category": "Revolutionary Movement",
+        "short_summary": "Bhagat Singh and Batukeshwar Dutt threw smoke bombs.",
+        "full_story": "The duo threw harmless bombs into the assembly to 'make the deaf hear' and protested against the repressive Public Safety Bill.",
+        "ai_insight": "A message heard by the masses is louder than an explosion.",
+        "coordinates": {
+          "lat": 28.6172,
+          "lng": 77.2081
+        },
+        "location_name": "Parliament House, Delhi",
+        "tags": [
+          "Bhagat Singh",
+          "Revolution",
+          "History"
+        ]
+      },
+      {
+        "day": 9,
+        "year": 1965,
+        "title": "Rann of Kutch Conflict Begins",
+        "category": "Military History",
+        "short_summary": "Indo-Pakistani skirmishes in the Rann of Kutch.",
+        "full_story": "Major hostilities broke out over the border dispute in Gujarat, which served as a precursor to the full-scale war later that year.",
+        "ai_insight": "Peace is a fragile border that requires constant vigilance.",
+        "coordinates": {
+          "lat": 23.8,
+          "lng": 70.0
+        },
+        "location_name": "Rann of Kutch, Gujarat",
+        "tags": [
+          "War",
+          "Border",
+          "Defense"
+        ]
+      },
+      {
+        "day": 10,
+        "year": 1875,
+        "title": "Establishment of Arya Samaj",
+        "category": "Social Reform",
+        "short_summary": "Dayananda Saraswati founded the movement in Mumbai.",
+        "full_story": "The Arya Samaj promoted the infallible authority of the Vedas and campaigned against social evils like untouchability and child marriage.",
+        "ai_insight": "Truth is the only foundation for a progressive society.",
+        "coordinates": {
+          "lat": 18.922,
+          "lng": 72.8333
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Arya Samaj",
+          "Reform",
+          "Religion"
+        ]
+      },
+      {
+        "day": 11,
+        "year": 1827,
+        "title": "Birth of Jyotirao Phule",
+        "category": "Social Reform",
+        "short_summary": "Birth of the great social reformer and thinker.",
+        "full_story": "Mahatma Phule worked tirelessly for the eradication of untouchability and the caste system, and was a pioneer of women's education.",
+        "ai_insight": "True freedom is the ability to walk as an equal in one’s own land.",
+        "coordinates": {
+          "lat": 18.5204,
+          "lng": 73.8567
+        },
+        "location_name": "Pune, Maharashtra",
+        "tags": [
+          "Jyotirao Phule",
+          "Social Justice",
+          "Reform"
+        ]
+      },
+      {
+        "day": 12,
+        "year": 1978,
+        "title": "First Indigenous Aircraft Carrier Work Begins",
+        "category": "Science & Innovation",
+        "short_summary": "India's design for an IAC was conceptualized.",
+        "full_story": "This marked the initial phase of India’s long journey toward building its own aircraft carriers, moving away from foreign reliance.",
+        "ai_insight": "Sovereignty is built in the shipyards of innovation.",
+        "coordinates": {
+          "lat": 9.9312,
+          "lng": 76.2673
+        },
+        "location_name": "Cochin Shipyard, Kerala",
+        "tags": [
+          "Navy",
+          "Science",
+          "Innovation"
+        ]
+      },
+      {
+        "day": 13,
+        "year": 1919,
+        "title": "Jallianwala Bagh Massacre",
+        "category": "Independence Movement",
+        "short_summary": "The darkest day in the history of British India.",
+        "full_story": "General Dyer ordered troops to fire on a peaceful gathering in Amritsar, killing hundreds and changing the course of the freedom struggle.",
+        "ai_insight": "Blood spilled on the soil of home becomes the seed of freedom.",
+        "coordinates": {
+          "lat": 31.6214,
+          "lng": 74.8806
+        },
+        "location_name": "Amritsar, Punjab",
+        "tags": [
+          "Massacre",
+          "History",
+          "Freedom"
+        ]
+      },
+      {
+        "day": 14,
+        "year": 1891,
+        "title": "Ambedkar Jayanti",
+        "category": "Modern India",
+        "short_summary": "Birth of Dr. B.R. Ambedkar.",
+        "full_story": "The architect of the Indian Constitution, Ambedkar devoted his life to social justice, Dalit rights, and legal reform.",
+        "ai_insight": "The pen of a scholar can rewrite the destiny of a billion people.",
+        "coordinates": {
+          "lat": 22.5126,
+          "lng": 75.764
+        },
+        "location_name": "Mhow, Madhya Pradesh",
+        "tags": [
+          "Ambedkar",
+          "Constitution",
+          "Equality"
+        ]
+      },
+      {
+        "day": 15,
+        "year": 1948,
+        "title": "Himachal Pradesh Day",
+        "category": "Modern India",
+        "short_summary": "Formation of Himachal Pradesh.",
+        "full_story": "The province was created as a Chief Commissioner's Province by integrating 30 princely states, later becoming a full state in 1971.",
+        "ai_insight": "Unity among hills creates a peak of stability.",
+        "coordinates": {
+          "lat": 31.1048,
+          "lng": 77.1734
+        },
+        "location_name": "Shimla, Himachal Pradesh",
+        "tags": [
+          "Himachal",
+          "Statehood",
+          "Integration"
+        ]
+      },
+      {
+        "day": 16,
+        "year": 1853,
+        "title": "First Passenger Train in India",
+        "category": "Infrastructure",
+        "short_summary": "The train ran from Bori Bunder to Thane.",
+        "full_story": "The 14-carriage train hauled by three steam locomotives (Sahib, Sindh, and Sultan) covered 34 km, starting the Indian Railways era.",
+        "ai_insight": "Tracks connect more than just stations; they connect the people.",
+        "coordinates": {
+          "lat": 18.94,
+          "lng": 72.8353
+        },
+        "location_name": "CSMT, Mumbai",
+        "tags": [
+          "Railways",
+          "Infrastructure",
+          "History"
+        ]
+      },
+      {
+        "day": 17,
+        "year": 1975,
+        "title": "Death of Sarvepalli Radhakrishnan",
+        "category": "Philosophy",
+        "short_summary": "Passing of India's second President and philosopher.",
+        "full_story": "A brilliant scholar of comparative religion and philosophy, his birthday (Sept 5) is celebrated as Teachers' Day in India.",
+        "ai_insight": "Wisdom is the highest form of leadership.",
+        "coordinates": {
+          "lat": 13.0827,
+          "lng": 80.2707
+        },
+        "location_name": "Chennai, Tamil Nadu",
+        "tags": [
+          "Philosophy",
+          "Leader",
+          "Radhakrishnan"
+        ]
+      },
+      {
+        "day": 18,
+        "year": 1930,
+        "title": "Chittagong Armoury Raid",
+        "category": "Revolutionary Movement",
+        "short_summary": "Surya Sen led a raid on the British armoury.",
+        "full_story": "Revolutionaries attempted to seize the armoury of police and auxiliary forces in Chittagong to declare an independent republic.",
+        "ai_insight": "The bold are those who dare to dream of freedom in the heart of danger.",
+        "coordinates": {
+          "lat": 22.3569,
+          "lng": 91.7832
+        },
+        "location_name": "Chittagong (Now Bangladesh)",
+        "tags": [
+          "Surya Sen",
+          "Revolution",
+          "History"
+        ]
+      },
+      {
+        "day": 19,
+        "year": 1975,
+        "title": "Launch of Aryabhata Satellite",
+        "category": "Science & Innovation",
+        "short_summary": "India's first satellite was launched into space.",
+        "full_story": "Named after the ancient astronomer, the satellite was launched by the Soviet Union, marking India's entry into the space age.",
+        "ai_insight": "To look at the stars is to see the future of our nation.",
+        "coordinates": {
+          "lat": 48.57,
+          "lng": 65.79
+        },
+        "location_name": "Kapustin Yar, USSR",
+        "tags": [
+          "Space",
+          "ISRO",
+          "Science"
+        ]
+      },
+      {
+        "day": 20,
+        "year": 1960,
+        "title": "Birth of Miguel Díaz-Canel (Legacy)",
+        "category": "Global Relations",
+        "short_summary": "Focus on Indo-Cuban relations.",
+        "full_story": "India was one of the first countries to recognize the Cuban government, and the two nations have shared deep diplomatic ties in the Non-Aligned Movement.",
+        "ai_insight": "Diplomacy is about finding common ground across distant shores.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.1994
+        },
+        "location_name": "Delhi",
+        "tags": [
+          "Diplomacy",
+          "Global",
+          "History"
+        ]
+      },
+      {
+        "day": 21,
+        "year": 1947,
+        "title": "National Civil Services Day",
+        "category": "Modern India",
+        "short_summary": "Sardar Patel addressed the first batch of civil servants.",
+        "full_story": "Patel referred to civil servants as the 'Steel Frame of India,' urging them to serve with dedication and integrity.",
+        "ai_insight": "A nation is only as strong as the administration that serves it.",
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.209
+        },
+        "location_name": "Metcalfe House, Delhi",
+        "tags": [
+          "Civil Service",
+          "Sardar Patel",
+          "Governance"
+        ]
+      },
+      {
+        "day": 22,
+        "year": 1915,
+        "title": "First Usage of Chemical Weapons (Impact on India)",
+        "category": "Global Relations",
+        "short_summary": "Indian soldiers in WWI faced chemical attacks.",
+        "full_story": "During the Battle of Ypres, Indian troops were among those exposed to chlorine gas, highlighting the horrors faced by Indian soldiers in foreign wars.",
+        "ai_insight": "The scars of war are borne by those far from home.",
+        "coordinates": {
+          "lat": 50.85,
+          "lng": 2.88
+        },
+        "location_name": "Ypres, Belgium",
+        "tags": [
+          "WWI",
+          "Military",
+          "History"
+        ]
+      },
+      {
+        "day": 23,
+        "year": 1992,
+        "title": "Death of Satyajit Ray",
+        "category": "Arts & Culture",
+        "short_summary": "Passing of the legendary filmmaker.",
+        "full_story": "The director of the 'Apu Trilogy' and an Oscar winner, Ray brought Indian cinema to the international stage with his humanist storytelling.",
+        "ai_insight": "A great story is a mirror where the whole world can see itself.",
+        "coordinates": {
+          "lat": 22.5726,
+          "lng": 88.3639
+        },
+        "location_name": "Kolkata, West Bengal",
+        "tags": [
+          "Cinema",
+          "Satyajit Ray",
+          "Art"
+        ]
+      },
+      {
+        "day": 24,
+        "year": 1973,
+        "title": "Kesavananda Bharati Judgment",
+        "category": "Modern India",
+        "short_summary": "The Supreme Court defined the 'Basic Structure' doctrine.",
+        "full_story": "In a 7:6 verdict, the court ruled that while Parliament can amend the Constitution, it cannot alter its basic structure.",
+        "ai_insight": "The soul of the Constitution is protected from the whims of time.",
+        "coordinates": {
+          "lat": 28.6139,
+          "lng": 77.23
+        },
+        "location_name": "Supreme Court, Delhi",
+        "tags": [
+          "Constitution",
+          "Law",
+          "Judiciary"
+        ]
+      },
+      {
+        "day": 25,
+        "year": 1954,
+        "title": "Solar Cell Demonstration (India's Solar Journey)",
+        "category": "Science & Innovation",
+        "short_summary": "The first practical silicon solar cell was shown.",
+        "full_story": "While global, this event set the stage for India’s eventual leadership in the International Solar Alliance decades later.",
+        "ai_insight": "The sun is the ultimate source of energy and independence.",
+        "coordinates": {
+          "lat": 28.6143,
+          "lng": 77.209
+        },
+        "location_name": "Delhi",
+        "tags": [
+          "Science",
+          "Solar",
+          "Energy"
+        ]
+      },
+      {
+        "day": 26,
+        "year": 1994,
+        "title": "South Africa's First Democratic Election (India's Support)",
+        "category": "Global Relations",
+        "short_summary": "End of Apartheid; India was a staunch supporter.",
+        "full_story": "India was the first country to break trade relations with the apartheid regime and among the first to welcome the new democratic South Africa.",
+        "ai_insight": "Justice for one is a victory for all who believe in equality.",
+        "coordinates": {
+          "lat": -25.7479,
+          "lng": 28.2293
+        },
+        "location_name": "Pretoria, South Africa",
+        "tags": [
+          "Diplomacy",
+          "Mandela",
+          "History"
+        ]
+      },
+      {
+        "day": 27,
+        "year": 2009,
+        "title": "Death of Feroz Khan (Legacy)",
+        "category": "Arts & Culture",
+        "short_summary": "The 'Clint Eastwood of the East' passed away.",
+        "full_story": "A legendary actor and director, Feroz Khan was known for his stylish filmmaking and his contribution to the 'Western' genre in Bollywood.",
+        "ai_insight": "Style is the signature of an artist's soul.",
+        "coordinates": {
+          "lat": 12.9716,
+          "lng": 77.5946
+        },
+        "location_name": "Bengaluru, Karnataka",
+        "tags": [
+          "Cinema",
+          "Actor",
+          "Art"
+        ]
+      },
+      {
+        "day": 28,
+        "year": 1932,
+        "title": "Yellow Fever Vaccine (Health in India)",
+        "category": "Science & Innovation",
+        "short_summary": "Breakthrough in tropical medicine.",
+        "full_story": "Advances in tropical disease research during this era significantly impacted public health policies in India.",
+        "ai_insight": "Health is the true wealth of a growing population.",
+        "coordinates": {
+          "lat": 18.922,
+          "lng": 72.8333
+        },
+        "location_name": "Mumbai, Maharashtra",
+        "tags": [
+          "Health",
+          "Science",
+          "Public Policy"
+        ]
+      },
+      {
+        "day": 29,
+        "year": 1848,
+        "title": "Birth of Raja Ravi Varma",
+        "category": "Arts & Culture",
+        "short_summary": "Birth of the 'Father of Modern Indian Art'.",
+        "full_story": "He blended European academic art with Indian iconography, making art accessible to the masses through lithographs.",
+        "ai_insight": "Art is the bridge between the divine and the everyday.",
+        "coordinates": {
+          "lat": 8.5833,
+          "lng": 76.8833
+        },
+        "location_name": "Kilimanoor, Kerala",
+        "tags": [
+          "Art",
+          "Ravi Varma",
+          "History"
+        ]
+      },
+      {
+        "day": 30,
+        "year": 1030,
+        "title": "Death of Mahmud of Ghazni (Impact on History)",
+        "category": "Medieval India",
+        "short_summary": "The passing of the conqueror of Somnath.",
+        "full_story": "His invasions significantly altered the political and religious landscape of North India, leading to the medieval era of transitions.",
+        "ai_insight": "History is written in the shifts of power and the endurance of culture.",
+        "coordinates": {
+          "lat": 20.888,
+          "lng": 70.4012
+        },
+        "location_name": "Somnath, Gujarat",
+        "tags": [
+          "Medieval India",
+          "History",
+          "Conflict"
+        ]
       }
     ]
   }
