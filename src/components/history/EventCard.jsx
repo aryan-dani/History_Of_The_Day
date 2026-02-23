@@ -4,13 +4,17 @@ import { MapPin } from 'lucide-react';
 export default function EventCard({ event }) {
 	const navigate = useNavigate();
 
+	const handleCardClick = () => {
+		navigate(`/chronicle/${event.id}`);
+	};
+
 	const handleMapClick = (e) => {
 		e.stopPropagation();
 		navigate('/map?event=' + event.id);
 	};
 
 	return (
-		<div className="vintage-card group transform transition-all hover:scale-[1.02] hover:rotate-1 duration-500 cursor-pointer">
+		<div className="vintage-card group transform transition-all hover:scale-[1.02] hover:rotate-1 duration-500 cursor-pointer" onClick={handleCardClick}>
 			{/* Photo Corners */}
 			<div className="photo-corner-tl"></div>
 			<div className="photo-corner-tr"></div>
