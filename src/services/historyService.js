@@ -53,4 +53,38 @@ export const historyService = {
       });
     return Promise.resolve(allEvents);
   },
+
+  getEventById: (id) => {
+    return new Promise((resolve) => {
+      // Parse composite ID: "month-day-index"
+      const parts = id.split("-");
+      if (parts.length < 3) {
+        resolve(null);
+        return;
+      }
+
+      const month = parts[0];
+      const day = parts[1];
+      const index = parseInt(parts[2]);
+
+      const monthRecord = monthRegistry[month];
+      if (!monthRecord || !monthRecord.data || !monthRecord.data[index]) {
+        resolve(null);
+        return;
+      }
+
+      const e = monthRecord.data[index];
+      resolve({
+        ...e,
+        id,
+        month: parseInt(month),
+        monthName: monthRecord.month,
+        description: e.short_summary,
+        location: e.location_name,
+        imageUrl:
+          e.imageUrl ||
+          "https://images.unsplash.com/photo-1564507004663-b6dfb3c824d5?auto=format&fit=crop&q=80&w=1000",
+      });
+    });
+  },
 };

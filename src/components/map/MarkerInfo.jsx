@@ -1,4 +1,12 @@
+import { useNavigate } from 'react-router-dom';
+
 export default function MarkerInfo({ site, onClose }) {
+	const navigate = useNavigate();
+
+	const handleReadChronicle = () => {
+		navigate(`/chronicle/${site.id}`);
+	};
+
 	return (
 		<div className="absolute top-4 right-4 w-80 max-w-[calc(100%-2rem)] z-40 animate-fade-in">
 			{/* Vintage Card Container */}
@@ -87,7 +95,7 @@ export default function MarkerInfo({ site, onClose }) {
 				{/* Card Footer */}
 				<div className="mt-4 pt-4 border-t-2 border-gold-dipped">
 					<button
-						onClick={onClose}
+						onClick={handleReadChronicle}
 						className="w-full bg-ink text-gold hover:bg-gold hover:text-ink py-3 font-display uppercase tracking-widest text-sm transition-colors"
 					>
 						Read Full Chronicle

@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HomePage from "./pages/index";
 import ExplorePage from "./pages/explore";
 import MapPage from "./pages/map";
+import ChroniclePage from "./pages/chronicle";
 import Navbar from "./components/common/Navbar";
 import Chatbot from "./components/Chatbot";
 
@@ -21,6 +22,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/explore" element={<ExplorePage />} />
           <Route path="/map" element={<MapPage />} />
+          <Route path="/chronicle/:id" element={<ChroniclePage />} />
         </Routes>
       </div>
     </BrowserRouter>

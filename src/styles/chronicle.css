@@ -1,0 +1,407 @@
+/* ============================================
+   THE DAILY CHRONICLES — Newspaper Layout
+   ============================================ */
+
+/* Masthead — Top banner with newspaper branding */
+.newspaper-masthead {
+	text-align: center;
+	border-bottom: 4px double #1a1a1a;
+	padding-bottom: 1rem;
+	margin-bottom: 2rem;
+	position: relative;
+}
+
+.newspaper-masthead::before {
+	content: "";
+	display: block;
+	height: 2px;
+	background: #1a1a1a;
+	margin-bottom: 0.75rem;
+}
+
+.newspaper-masthead .masthead-title {
+	font-family: "Rye", serif;
+	font-size: clamp(2rem, 6vw, 4rem);
+	color: #1a1a1a;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+	line-height: 1.1;
+	text-shadow: 2px 2px 0px rgba(201, 169, 97, 0.3);
+}
+
+.newspaper-masthead .masthead-meta {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	font-family: "Crimson Text", serif;
+	font-size: 0.85rem;
+	color: #4a4a4a;
+	margin-top: 0.5rem;
+	font-style: italic;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+}
+
+.newspaper-masthead .masthead-subtitle {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1.5rem;
+	font-family: "Crimson Text", serif;
+	font-size: 1.1rem;
+	color: #1a1a1a;
+	font-style: italic;
+	margin-top: 0.5rem;
+	letter-spacing: 0.05em;
+}
+
+.newspaper-masthead .masthead-subtitle::before,
+.newspaper-masthead .masthead-subtitle::after {
+	content: "";
+	flex: 1;
+	height: 1px;
+	background: #1a1a1a55;
+}
+
+.newspaper-masthead .masthead-meta .masthead-price {
+	border: 1px solid #1a1a1a;
+	padding: 0.15rem 0.5rem;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 0.75rem;
+	letter-spacing: 0.05em;
+}
+
+/* Headline area */
+.chronicle-headline {
+	text-align: center;
+	margin-bottom: 2rem;
+	padding: 1.5rem 0;
+	border-bottom: 2px solid #1a1a1a;
+}
+
+.chronicle-headline h1 {
+	font-family: "Rye", serif;
+	font-size: clamp(1.5rem, 4vw, 2.75rem);
+	color: #4a4a4a;
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	line-height: 1.2;
+	margin-bottom: 0.75rem;
+}
+
+.chronicle-headline .headline-meta {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 1rem;
+	font-family: "Crimson Text", serif;
+	color: #4a4a4a;
+	font-size: 0.95rem;
+	flex-wrap: wrap;
+}
+
+.chronicle-headline .headline-meta .meta-divider {
+	width: 2rem;
+	height: 1px;
+	background: #1a1a1a;
+}
+
+/* Multi-column newspaper text */
+.newspaper-columns {
+	column-count: 2;
+	column-gap: 2.5rem;
+	column-rule: 1px solid #c9a96133;
+	font-family: "Crimson Text", serif;
+	font-size: 1.1rem;
+	line-height: 1.75;
+	color: #1a1a1a;
+	text-align: justify;
+	hyphens: auto;
+}
+
+@media (max-width: 768px) {
+	.newspaper-columns {
+		column-count: 1;
+	}
+}
+
+/* Drop cap — first letter of article */
+.article-dropcap::first-letter {
+	float: left;
+	font-family: "Rye", serif;
+	font-size: 4.5rem;
+	line-height: 0.8;
+	padding-right: 0.5rem;
+	padding-top: 0.25rem;
+	color: #8b7355;
+	font-weight: bold;
+}
+
+/* Pull-quote for AI insight */
+.pull-quote {
+	break-inside: avoid;
+	margin: 1.5rem 0;
+	padding: 1.5rem;
+	border-top: 3px solid #1a1a1a;
+	border-bottom: 3px solid #1a1a1a;
+	text-align: center;
+	position: relative;
+	background: rgba(201, 169, 97, 0.06);
+}
+
+.pull-quote::before {
+	content: "\201C";
+	font-family: "Rye", serif;
+	font-size: 4rem;
+	color: #c9a961;
+	position: absolute;
+	top: -0.25rem;
+	left: 50%;
+	transform: translateX(-50%);
+	line-height: 1;
+	opacity: 0.3;
+}
+
+.pull-quote p {
+	font-family: "Crimson Text", serif;
+	font-style: italic;
+	font-size: 1.25rem;
+	color: #1a1a1a;
+	line-height: 1.6;
+	position: relative;
+	z-index: 1;
+}
+
+.pull-quote .quote-attribution {
+	font-size: 0.8rem;
+	color: #1a1a1a;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	margin-top: 0.75rem;
+	font-style: normal;
+	font-family: "Rye", serif;
+}
+
+/* Newspaper divider ornament */
+.newspaper-divider {
+	display: flex;
+	align-items: center;
+	gap: 1rem;
+	margin: 2rem 0;
+}
+
+.newspaper-divider::before,
+.newspaper-divider::after {
+	content: "";
+	flex: 1;
+	height: 1px;
+	background: #1a1a1a;
+}
+
+.newspaper-divider .divider-ornament {
+	font-family: "Rye", serif;
+	color: #c9a961;
+	font-size: 1.25rem;
+}
+
+/* Metadata sidebar */
+.chronicle-sidebar {
+	border-left: 3px solid #1a1a1a;
+	padding-left: 1.5rem;
+}
+
+@media (max-width: 1024px) {
+	.chronicle-sidebar {
+		border-left: none;
+		border-top: 3px solid #1a1a1a;
+		padding-left: 0;
+		padding-top: 1.5rem;
+	}
+}
+
+.chronicle-sidebar .sidebar-section {
+	margin-bottom: 1.5rem;
+}
+
+.chronicle-sidebar .sidebar-label {
+	font-family: "Rye", serif;
+	font-size: 0.7rem;
+	text-transform: uppercase;
+	letter-spacing: 0.2em;
+	color: #8b7355;
+	margin-bottom: 0.5rem;
+}
+
+.chronicle-sidebar .sidebar-value {
+	font-family: "Crimson Text", serif;
+	font-size: 1rem;
+	color: #1a1a1a;
+	line-height: 1.5;
+}
+
+/* Tags in sidebar */
+.chronicle-tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+}
+
+.chronicle-tags .tag {
+	display: inline-block;
+	border: 1px solid #8b7355;
+	padding: 0.2rem 0.6rem;
+	font-family: "Rye", serif;
+	font-size: 0.65rem;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	color: #4a4a4a;
+	transition: all 0.2s ease;
+}
+
+.chronicle-tags .tag:hover {
+	background: #8b7355;
+	color: #f5ead2;
+}
+
+/* Newspaper footer navigation */
+.chronicle-footer {
+	border-top: 4px double #1a1a1a;
+	padding-top: 1.5rem;
+	margin-top: 3rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 1rem;
+}
+
+.chronicle-footer a,
+.chronicle-footer button {
+	font-family: "Rye", serif;
+	font-size: 0.75rem;
+	text-transform: uppercase;
+	letter-spacing: 0.15em;
+	color: #1a1a1a;
+	text-decoration: none;
+	transition: color 0.2s ease;
+	cursor: pointer;
+	background: none;
+	border: none;
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.chronicle-footer a:hover,
+.chronicle-footer button:hover {
+	color: #c9a961;
+}
+
+/* Chronicle image with vintage treatment */
+.chronicle-image-frame {
+	position: relative;
+	overflow: hidden;
+	border: 3px solid #1a1a1a;
+	box-shadow: 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+
+.chronicle-image-frame img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	filter: grayscale(100%) sepia(80%) contrast(110%);
+	transition: filter 0.5s ease;
+}
+
+.chronicle-image-frame:hover img {
+	filter: grayscale(100%) sepia(80%) contrast(110%);
+}
+
+.chronicle-image-frame .image-caption {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: rgba(26, 26, 26, 0.85);
+	padding: 0.5rem 0.75rem;
+	font-family: "Crimson Text", serif;
+	font-size: 0.8rem;
+	color: #e8dcc4;
+	font-style: italic;
+}
+
+/* Loading skeleton for newspaper */
+.chronicle-skeleton {
+	animation: skeletonPulse 1.5s ease-in-out infinite;
+}
+
+.chronicle-skeleton .skeleton-line {
+	height: 1rem;
+	background: #d4c4a4;
+	margin-bottom: 0.75rem;
+	border-radius: 2px;
+}
+
+.chronicle-skeleton .skeleton-line:nth-child(odd) {
+	width: 100%;
+}
+
+.chronicle-skeleton .skeleton-line:nth-child(even) {
+	width: 85%;
+}
+
+.chronicle-skeleton .skeleton-headline {
+	height: 2.5rem;
+	background: #d4c4a4;
+	margin-bottom: 1rem;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@keyframes skeletonPulse {
+
+	0%,
+	100% {
+		opacity: 1;
+	}
+
+	50% {
+		opacity: 0.4;
+	}
+}
+
+/* Entrance animation */
+.chronicle-enter {
+	animation: chronicleReveal 0.6s ease-out;
+}
+
+@keyframes chronicleReveal {
+	from {
+		opacity: 0;
+		transform: translateY(20px);
+	}
+
+	to {
+		opacity: 1;
+		transform: translateY(0);
+	}
+}
+
+/* Print styles */
+@media print {
+
+	.newspaper-masthead,
+	.chronicle-footer {
+		break-inside: avoid;
+	}
+
+	.newspaper-columns {
+		column-count: 2;
+	}
+
+	.chronicle-image-frame img {
+		filter: none;
+	}
+}
